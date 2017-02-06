@@ -1,0 +1,6 @@
+CREATE TABLE Autores
+  (
+    idAutor  VARCHAR2 (10) NOT NULL ,
+    Nombre   VARCHAR2 (20) ,
+    Apellido VARCHAR2 (20)
+  ) ;

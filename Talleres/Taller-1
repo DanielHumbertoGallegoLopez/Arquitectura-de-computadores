@@ -1,5 +1,10 @@
 	/*1. Hacer un programa la multiplicación de dos enteros sin signo usando solo sumas*/
 
+#include <conio.h>
+#include <stdio.h>
+#include <iostream> 
+#include <string> 
+
 int main(){
 	int m, n, resultado; 
 	cout<< "Ingresar numeros enteros para hacer la multiplicacion: ";
@@ -65,9 +70,13 @@ int evalua(int k[], int n, int x) {
 
 	/*4. Realice un programa  que calcule el factorial de un número entero sin signo*/
 
+#include <iostream> 
+#include <string> 
+
 int main() { 
 
 	int factorial=0; 
+	int n =0;
 	cout<<"Ingresar numero para calcular el factorial: "; 
 	cin>>n;
 	cin>>factorial; 
@@ -84,6 +93,9 @@ int main() {
 } 
 
 	/*5. Realice un programa  calcule la división entera entre dos números enteros.*/
+
+#include <iostream> 
+#include <string> 
 
 int main(){
 

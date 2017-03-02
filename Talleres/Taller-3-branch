@@ -1,0 +1,25 @@
+int main(){
+  int a=-3;
+  int b=10;
+  
+  if(a<=b){
+    a=a+b;
+    
+    else
+      return b-a;
+  }
+}
+
+Identificar variables
+a=%L0
+b=%L1
+
+MAIN:
+0X0000 mov -3, %L0
+0X0004 mov 10, %L1
+0X0008 cmp %L0, %L1
+0X000C ble a, True
+0X0010 sub %L1, %L0
+0X0014 ba a, Exit
+  True add %L0, %L1, %L0
+  Exit nop

@@ -14,12 +14,26 @@ Identificar variables
 a=%L0
 b=%L1
 
-MAIN:
+BLE MAIN:
 0X0000 mov -3, %L0
 0X0004 mov 10, %L1
 0X0008 cmp %L0, %L1
 0X000C ble a, True
-0X0010 sub %L1, %L0
+0X0010 sub %L1, %L0, %O0
 0X0014 ba a, Exit
-  True add %L0, %L1, %L0
-  Exit nop
+  True 
+0X0018 add %L0, %L1, %L0
+  Exit 
+       nop
+       
+BG MAIN:
+0X0000 mov -3, %L0
+0X0004 mov 10, %L1
+0X0008 cmp %L0, %L1
+0X000C bg a, False
+0X0010 add %L0, %L1, %L0
+0X0014 ba a, Exit
+  False 
+0X0018 sub %L1, %L0, %O0
+  Exit 
+       nop

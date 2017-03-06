@@ -1,3 +1,4 @@
+---Primer Ejercicio.
 int main(){
   a= -18500;
   b= -19600;
@@ -25,4 +26,33 @@ int main(){
   0X0100 ba     a,   EXIT           [00|1|1000|010|0000000000000000000001]          0X30800001
   EXIT
   0X0104 nop                        [00|00000|100|0000000000000000000000]           0X01000000   
-  
+
+---Segundo Ejercicio.
+int main(){
+  int i= 15;
+  int b[3]= 33;
+  if((b[3]-145)>i){
+    return 4+i;
+  }else{
+    return i;
+  }
+}
+
+1. Asignar registros a las variables.
+   i= %L0
+   b= %L1
+   
+2.Codigo SPARK V8.                    3.Lenguaje maquina. 
+  0X0000 mov  15, %L0                 [10|10000|000010|00000|1|0000000001111]
+  0X0004 mov  33, %L2                 [10|10010|000010|00000|1|0000000100001]
+  0X0008 st   %L2, [%L1 + (3*4)]      [11|10010|000100|10001|1|0000000001100]
+  0X000C ld   [%L1 + (3*4)], %L3      []
+  0X0010 sub  %L3, 145, %L4
+  0X0014 cmp  %L4, %L0
+  0X0018 bl   a,   FALSE
+  0X001C add  %L0, 4, %O0
+  FALSE
+  0X0100 mov  %L0, %O1
+  0X0104 ba   a, EXIT
+  EXIT
+  0X0108 nop

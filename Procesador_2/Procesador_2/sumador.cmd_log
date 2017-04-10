@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/sumador.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/sumador.syr" 
+xst -intstyle ise -ifn "C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/sumador.xst" -ofn "C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/sumador.syr" 
+vhdtdtfi -prj Procesador_2 -o C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/sumador.vhi -module sumador -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Suma.vhd 

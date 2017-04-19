@@ -1,0 +1,188 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 4
+-n 3 -fastpaths -xml procesadorUnion.twx procesadorUnion.ncd -o
+procesadorUnion.twr procesadorUnion.pcf
+
+Design file:              procesadorUnion.ncd
+Physical constraint file: procesadorUnion.pcf
+Device,package,speed:     xc3s100e,vq100,-4 (PRODUCTION 1.27 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+INFO:Timing:3390 - This architecture does not support a default System Jitter 
+   value, please add SYSTEM_JITTER constraint to the UCF to modify the Clock 
+   Uncertainty calculation.
+INFO:Timing:3389 - This architecture does not support 'Discrete Jitter' and 
+   'Phase Error' calculations, these terms will be zero in the Clock 
+   Uncertainty calculation.  Please make appropriate modification to 
+   SYSTEM_JITTER to account for the unsupported Discrete Jitter and Phase 
+   Error.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Clock Rst to Pad
+--------------------+------------+------------------+--------+
+                    | clk (edge) |                  | Clock  |
+Destination         |   to PAD   |Internal Clock(s) | Phase  |
+--------------------+------------+------------------+--------+
+SalidaProcesador<0> |   12.554(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<1> |   12.672(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<2> |   12.797(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<3> |   13.503(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<4> |   12.127(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<5> |   13.798(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<6> |   13.821(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<7> |   13.261(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<8> |   13.650(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<9> |   14.410(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<10>|   13.550(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<11>|   14.264(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<12>|   14.001(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<13>|   13.724(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<14>|   13.777(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<15>|   14.368(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<16>|   14.125(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<17>|   14.513(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<18>|   14.197(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<19>|   14.763(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<20>|   14.365(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<21>|   14.436(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<22>|   15.143(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<23>|   14.597(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<24>|   14.316(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<25>|   15.158(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<26>|   15.035(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<27>|   15.464(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<28>|   14.458(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<29>|   15.947(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<30>|   16.068(R)|Rst_IBUF          |   0.000|
+SalidaProcesador<31>|   15.649(R)|Rst_IBUF          |   0.000|
+--------------------+------------+------------------+--------+
+
+Clock clk to Pad
+--------------------+------------+------------------+--------+
+                    | clk (edge) |                  | Clock  |
+Destination         |   to PAD   |Internal Clock(s) | Phase  |
+--------------------+------------+------------------+--------+
+SalidaProcesador<0> |   14.226(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<1> |   14.518(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<2> |   14.689(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<3> |   15.395(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<4> |   14.019(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<5> |   15.690(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<6> |   15.714(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<7> |   15.154(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<8> |   15.543(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<9> |   16.303(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<10>|   15.443(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<11>|   16.157(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<12>|   15.894(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<13>|   15.617(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<14>|   15.670(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<15>|   16.261(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<16>|   16.018(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<17>|   16.406(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<18>|   16.090(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<19>|   16.656(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<20>|   16.258(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<21>|   16.329(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<22>|   17.036(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<23>|   16.490(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<24>|   16.209(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<25>|   17.051(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<26>|   16.928(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<27>|   17.357(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<28>|   16.351(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<29>|   17.840(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<30>|   17.961(R)|clk_BUFGP         |   0.000|
+SalidaProcesador<31>|   17.542(R)|clk_BUFGP         |   0.000|
+--------------------+------------+------------------+--------+
+
+Clock to Setup on destination clock Rst
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+Rst            |    1.485|    1.485|         |         |
+clk            |    2.875|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Clock to Setup on destination clock clk
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+Rst            |    1.427|    1.427|         |         |
+clk            |    3.167|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Pad to Pad
+---------------+--------------------+---------+
+Source Pad     |Destination Pad     |  Delay  |
+---------------+--------------------+---------+
+Rst            |SalidaProcesador<0> |   12.267|
+Rst            |SalidaProcesador<1> |   12.559|
+Rst            |SalidaProcesador<2> |   12.730|
+Rst            |SalidaProcesador<3> |   13.436|
+Rst            |SalidaProcesador<4> |   12.060|
+Rst            |SalidaProcesador<5> |   13.731|
+Rst            |SalidaProcesador<6> |   13.755|
+Rst            |SalidaProcesador<7> |   13.195|
+Rst            |SalidaProcesador<8> |   13.584|
+Rst            |SalidaProcesador<9> |   14.344|
+Rst            |SalidaProcesador<10>|   13.484|
+Rst            |SalidaProcesador<11>|   14.198|
+Rst            |SalidaProcesador<12>|   13.935|
+Rst            |SalidaProcesador<13>|   13.658|
+Rst            |SalidaProcesador<14>|   13.711|
+Rst            |SalidaProcesador<15>|   14.302|
+Rst            |SalidaProcesador<16>|   14.059|
+Rst            |SalidaProcesador<17>|   14.447|
+Rst            |SalidaProcesador<18>|   14.131|
+Rst            |SalidaProcesador<19>|   14.697|
+Rst            |SalidaProcesador<20>|   14.299|
+Rst            |SalidaProcesador<21>|   14.370|
+Rst            |SalidaProcesador<22>|   15.077|
+Rst            |SalidaProcesador<23>|   14.531|
+Rst            |SalidaProcesador<24>|   14.250|
+Rst            |SalidaProcesador<25>|   15.092|
+Rst            |SalidaProcesador<26>|   14.969|
+Rst            |SalidaProcesador<27>|   15.398|
+Rst            |SalidaProcesador<28>|   14.392|
+Rst            |SalidaProcesador<29>|   15.881|
+Rst            |SalidaProcesador<30>|   16.002|
+Rst            |SalidaProcesador<31>|   15.583|
+---------------+--------------------+---------+
+
+
+Analysis completed Tue Apr 18 17:34:54 2017 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 153 MB
+
+
+

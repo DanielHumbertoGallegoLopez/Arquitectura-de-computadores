@@ -1,0 +1,63 @@
+V3 45
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/ALU.vhd 2017/04/09.22:32:37 P.20131013
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/IM.vhd 2017/04/09.22:32:58 P.20131013
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/MUX.vhd 2017/04/09.22:32:22 P.20131013
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/nPC.vhd 2017/04/06.19:10:13 P.20131013
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/procesadorUnion.vhd 2017/04/10.15:00:42 P.20131013
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/RegisterFile.vhd 2017/04/09.22:32:02 P.20131013
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/SEU.vhd 2017/04/09.22:31:39 P.20131013
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/Suma.vhd 2017/04/06.19:39:38 P.20131013
+FL C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/UC.vhd 2017/04/06.18:47:01 P.20131013
+FL C:/Users/utp.CRIE/Desktop/Procesador_2/Procesador_2/IM.vhd 2017/04/18.15:02:29 P.20131013
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/ALU.vhd 2017/04/09.22:32:37 P.20131013
+EN work/ALU 1492556451 FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/ALU.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU/Behavioral 1492556452 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/ALU.vhd EN work/ALU 1492556451
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/IM.vhd 2017/04/18.18:30:03 P.20131013
+EN work/IM 1492560253 FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/IM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB std/TEXTIO 1381692176
+AR work/IM/Behavioral 1492560254 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/IM.vhd EN work/IM 1492560253
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/MUX.vhd 2017/04/09.22:32:22 P.20131013
+EN work/MUX 1492556449 FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/MUX.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MUX/Behavioral 1492556450 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/MUX.vhd EN work/MUX 1492556449
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/nPC.vhd 2017/04/18.15:55:40 P.20131013
+EN work/nPC 1492556439 FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/nPC.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/nPC/Behavioral 1492556440 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/nPC.vhd EN work/nPC 1492556439
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/procesadorUnion.vhd 2017/04/18.16:12:53 P.20131013
+EN work/procesadorUnion 1492556453 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/procesadorUnion.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/procesadorUnion/Behavioral 1492556454 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/procesadorUnion.vhd \
+      EN work/procesadorUnion 1492556453 CP sumador CP nPC CP iM CP uC \
+      CP registerFile CP sEU CP mUX CP aLU
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.vhd 2017/04/18.18:00:20 P.20131013
+EN work/RegisterFile 1492556445 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/RegisterFile/Behavioral 1492556446 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.vhd \
+      EN work/RegisterFile 1492556445
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/SEU.vhd 2017/04/09.22:31:39 P.20131013
+EN work/SEU 1492556447 FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/SEU.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/SEU/Behavioral 1492556448 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/SEU.vhd EN work/SEU 1492556447
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/Suma.vhd 2017/04/06.19:39:38 P.20131013
+EN work/sumador 1492556437 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/Suma.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sumador/Behavioral 1492556438 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/Suma.vhd EN work/sumador 1492556437
+FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/UC.vhd 2017/04/06.18:47:01 P.20131013
+EN work/UC 1492556443 FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/UC.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/UC/Behavioral 1492556444 \
+      FL C:/Users/utp/Desktop/Procesador_2/Procesador_2/UC.vhd EN work/UC 1492556443

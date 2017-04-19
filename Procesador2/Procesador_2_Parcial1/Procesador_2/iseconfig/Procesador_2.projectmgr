@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Procesador_2" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/procesadorUnion - Behavioral C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|procesadorUnion.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Inst_mUX - mUX - Behavioral (C:/Users/utp/Desktop/Procesador_2/Procesador_2/MUX.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000018d000000020000000000000000000000000200000064ffffffff0000008100000003000000020000018d0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Inst_mUX - mUX - Behavioral (C:/Users/utp/Desktop/Procesador_2/Procesador_2/MUX.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000114000000010000000100000000000000000000000064ffffffff000000810000000000000001000001140000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000263000000040101000100000000000000000000000064ffffffff000000810000000000000004000000450000000100000000000000440000000100000000000000660000000100000000000001740000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>IM.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Prueba_nPC - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|Prueba_nPC.vhd</ClosedNode>
+         <ClosedNode>/Prueba_sEU - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|Prueba_sEU.vhd</ClosedNode>
+         <ClosedNode>/procesadorUnion - Behavioral C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|procesadorUnion.vhd</ClosedNode>
+         <ClosedNode>/prueba_aLU - behavior C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|prueba_aLU.vhd</ClosedNode>
+         <ClosedNode>/prueba_aLU - behavior C:|Users|utp.CRIE|Desktop|Procesador_2|Procesador_2|prueba_aLU.vhd</ClosedNode>
+         <ClosedNode>/prueba_aLU - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|prueba_aLU.vhd</ClosedNode>
+         <ClosedNode>/prueba_iM - behavior C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|prueba_iM.vhd</ClosedNode>
+         <ClosedNode>/prueba_iM - behavior C:|Users|utp.CRIE|Desktop|Procesador_2|Procesador_2|prueba_iM.vhd</ClosedNode>
+         <ClosedNode>/prueba_iM - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|prueba_iM.vhd</ClosedNode>
+         <ClosedNode>/prueba_mUX - behavior C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|prueba_mUX.vhd</ClosedNode>
+         <ClosedNode>/prueba_mUX - behavior C:|Users|utp.CRIE|Desktop|Procesador_2|Procesador_2|prueba_mUX.vhd</ClosedNode>
+         <ClosedNode>/prueba_mUX - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|prueba_mUX.vhd</ClosedNode>
+         <ClosedNode>/prueba_nPC - behavior C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|prueba_nPC.vhd</ClosedNode>
+         <ClosedNode>/prueba_nPC - behavior C:|Users|utp.CRIE|Desktop|Procesador_2|Procesador_2|prueba_nPC.vhd</ClosedNode>
+         <ClosedNode>/prueba_nPC - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|prueba_nPC.vhd</ClosedNode>
+         <ClosedNode>/prueba_procesadorUnion - behavior C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|prueba_procesadorUnion.vhd</ClosedNode>
+         <ClosedNode>/prueba_procesadorUnion - behavior C:|Users|utp.CRIE|Desktop|Procesador_2|Procesador_2|prueba_procesadorUnion.vhd</ClosedNode>
+         <ClosedNode>/prueba_registerFile - behavior C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|prueba_registerFile.vhd</ClosedNode>
+         <ClosedNode>/prueba_registerFile - behavior C:|Users|utp.CRIE|Desktop|Procesador_2|Procesador_2|prueba_registerFile.vhd</ClosedNode>
+         <ClosedNode>/prueba_registerFile - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|prueba_registerFile.vhd</ClosedNode>
+         <ClosedNode>/prueba_sumador - behavior C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|prueba_sumador.vhd</ClosedNode>
+         <ClosedNode>/prueba_sumador - behavior C:|Users|utp.CRIE|Desktop|Procesador_2|Procesador_2|prueba_sumador.vhd</ClosedNode>
+         <ClosedNode>/prueba_sumador - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|prueba_sumador.vhd</ClosedNode>
+         <ClosedNode>/prueba_uC - behavior C:|Users|Daniel|Desktop|Procesador_2|Procesador_2|prueba_uC.vhd</ClosedNode>
+         <ClosedNode>/prueba_uC - behavior C:|Users|utp.CRIE|Desktop|Procesador_2|Procesador_2|prueba_uC.vhd</ClosedNode>
+         <ClosedNode>/prueba_uC - behavior C:|Users|utp|Desktop|Procesador_2|Procesador_2|prueba_uC.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Prueba_sEU - behavior (C:/Users/utp/Desktop/Procesador_2/Procesador_2/Prueba_sEU.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001a9000000020000000000000000000000000200000064ffffffff000000810000000300000002000001a90000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Prueba_sEU - behavior (C:/Users/utp/Desktop/Procesador_2/Procesador_2/Prueba_sEU.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000114000000010000000100000000000000000000000064ffffffff000000810000000000000001000001140000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000114000000010000000100000000000000000000000064ffffffff000000810000000000000001000001140000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000ed0000005a01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+</Project>

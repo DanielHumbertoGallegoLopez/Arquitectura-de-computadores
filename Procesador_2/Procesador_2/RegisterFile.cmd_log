@@ -1,9 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.syr" 
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.syr" 
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.syr" 
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.syr" 
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.syr" 
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.syr" 
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/RegisterFile.syr" 
-xst -intstyle ise -ifn "C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/registerFile.xst" -ofn "C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/registerFile.syr" 
-vhdtdtfi -prj Procesador_2 -o C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/registerFile.vhi -module registerFile -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work RegisterFile.vhd 

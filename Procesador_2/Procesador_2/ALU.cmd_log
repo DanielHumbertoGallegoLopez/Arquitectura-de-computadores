@@ -1,4 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/ALU.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/ALU.syr" 
-xst -intstyle ise -ifn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/ALU.xst" -ofn "C:/Users/utp/Desktop/Procesador_2/Procesador_2/ALU.syr" 
-xst -intstyle ise -ifn "C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/aLU.xst" -ofn "C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/aLU.syr" 
-vhdtdtfi -prj Procesador_2 -o C:/Users/Daniel/Desktop/Procesador_2/Procesador_2/aLU.vhi -module aLU -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ALU.vhd 

@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesador_3 -o C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/modifierPSR.vhi -module modifierPSR -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work modifierPSR.vhd 

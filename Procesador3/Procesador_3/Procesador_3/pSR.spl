@@ -1,0 +1,7 @@
+[Inputs]
+clk
+Rst
+=nzvc[3:0]=
+[Outputs]
+Carry
+[BiDir]

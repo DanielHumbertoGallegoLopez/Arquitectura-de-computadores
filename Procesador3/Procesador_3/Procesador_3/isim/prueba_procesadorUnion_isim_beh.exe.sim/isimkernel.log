@@ -2,14 +2,14 @@ Command line:
    prueba_procesadorUnion_isim_beh.exe
      -simmode  gui
      -simrunnum  0
-     -socket  59972
+     -socket  60017
 
-Sat Apr 22 19:25:56 2017
+Mon Apr 24 20:47:57 2017
 
 
  Elaboration Time: 0.125 sec
 
- Current Memory Usage: 366.023 Meg
+ Current Memory Usage: 366.043 Meg
 
  Total Signals          : 61
  Total Nets             : 2637
@@ -23,9 +23,9 @@ Total Line Count : 105
 In process IM.vhd:60 
  
 
- Total Simulation Time: 0.203125 sec
+ Total Simulation Time: 0.15625 sec
 
- Current Memory Usage: 680.612 Meg
+ Current Memory Usage: 680.632 Meg
 
-Sat Apr 22 19:26:44 2017
+Mon Apr 24 20:48:53 2017
 

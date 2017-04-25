@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/RegisterFile.vhd";
+static const char *ng0 = "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/RegisterFile.vhd";
 extern char *IEEE_P_3620187407;
 
 unsigned char ieee_p_3620187407_sub_4042748798_3965413181(char *, char *, char *, char *, char *);
@@ -66,7 +66,7 @@ LAB4:    xsi_set_current_line(51, ng0);
     t2 = *((char **)t1);
     t1 = (t0 + 1032U);
     t5 = *((char **)t1);
-    t1 = (t0 + 6308U);
+    t1 = (t0 + 6856U);
     t13 = ieee_p_3620187407_sub_514432868_3965413181(IEEE_P_3620187407, t5, t1);
     t14 = (t13 - 0);
     t11 = (t14 * 1);
@@ -86,7 +86,7 @@ LAB4:    xsi_set_current_line(51, ng0);
     t2 = *((char **)t1);
     t1 = (t0 + 1192U);
     t5 = *((char **)t1);
-    t1 = (t0 + 6324U);
+    t1 = (t0 + 6872U);
     t13 = ieee_p_3620187407_sub_514432868_3965413181(IEEE_P_3620187407, t5, t1);
     t14 = (t13 - 0);
     t11 = (t14 * 1);
@@ -104,8 +104,8 @@ LAB4:    xsi_set_current_line(51, ng0);
     xsi_set_current_line(55, ng0);
     t1 = (t0 + 1352U);
     t2 = *((char **)t1);
-    t1 = (t0 + 6340U);
-    t5 = (t0 + 7804);
+    t1 = (t0 + 6888U);
+    t5 = (t0 + 8352);
     t7 = (t17 + 0U);
     t8 = (t7 + 0U);
     *((int *)t8) = 0;
@@ -156,7 +156,7 @@ LAB2:    xsi_set_current_line(46, ng0);
     t1 = xsi_get_transient_memory(1280U);
     memset(t1, 0, 1280U);
     t2 = t1;
-    t5 = (t0 + 7772);
+    t5 = (t0 + 8320);
     t3 = (32U != 0);
     if (t3 == 1)
         goto LAB5;
@@ -179,7 +179,7 @@ LAB7:    xsi_set_current_line(56, ng0);
     t9 = *((char **)t8);
     t8 = (t0 + 1352U);
     t10 = *((char **)t8);
-    t8 = (t0 + 6340U);
+    t8 = (t0 + 6888U);
     t14 = ieee_p_3620187407_sub_514432868_3965413181(IEEE_P_3620187407, t10, t8);
     t18 = (t14 - 0);
     t11 = (t18 * 1);

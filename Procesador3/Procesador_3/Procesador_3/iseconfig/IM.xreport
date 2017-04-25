@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2017-04-22T18:46:52</DateModified>
+  <DateModified>2017-04-24T19:01:08</DateModified>
   <ModuleName>iM</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/iseconfig/iM.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/Daniel/Desktop/Procesador_3/Procesador_2\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/iseconfig/iM.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3\</ImplementationReportsDirectory>
   <DateInitialized>2017-04-06T18:36:23</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

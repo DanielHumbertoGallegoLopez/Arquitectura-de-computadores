@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/modifierPSR.vhd";
+static const char *ng0 = "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/modifierPSR.vhd";
 extern char *IEEE_P_3620187407;
 extern char *IEEE_P_2592010699;
 
@@ -124,8 +124,8 @@ LAB0:    xsi_set_current_line(44, ng0);
 LAB4:    xsi_set_current_line(48, ng0);
     t1 = (t0 + 1032U);
     t2 = *((char **)t1);
-    t1 = (t0 + 5436U);
-    t5 = (t0 + 5627);
+    t1 = (t0 + 5888U);
+    t5 = (t0 + 6079);
     t7 = (t14 + 0U);
     t8 = (t7 + 0U);
     *((int *)t8) = 0;
@@ -144,8 +144,8 @@ LAB4:    xsi_set_current_line(48, ng0);
 
 LAB21:    t8 = (t0 + 1032U);
     t9 = *((char **)t8);
-    t8 = (t0 + 5436U);
-    t10 = (t0 + 5633);
+    t8 = (t0 + 5888U);
+    t10 = (t0 + 6085);
     t20 = (t19 + 0U);
     t21 = (t20 + 0U);
     *((int *)t21) = 0;
@@ -166,8 +166,8 @@ LAB22:    if (t13 == 1)
 
 LAB18:    t21 = (t0 + 1032U);
     t24 = *((char **)t21);
-    t21 = (t0 + 5436U);
-    t25 = (t0 + 5639);
+    t21 = (t0 + 5888U);
+    t25 = (t0 + 6091);
     t28 = (t27 + 0U);
     t29 = (t28 + 0U);
     *((int *)t29) = 0;
@@ -188,8 +188,8 @@ LAB19:    if (t12 == 1)
 
 LAB15:    t29 = (t0 + 1032U);
     t32 = *((char **)t29);
-    t29 = (t0 + 5436U);
-    t33 = (t0 + 5645);
+    t29 = (t0 + 5888U);
+    t33 = (t0 + 6097);
     t36 = (t35 + 0U);
     t37 = (t36 + 0U);
     *((int *)t37) = 0;
@@ -210,8 +210,8 @@ LAB16:    if (t11 == 1)
 
 LAB12:    t37 = (t0 + 1032U);
     t40 = *((char **)t37);
-    t37 = (t0 + 5436U);
-    t41 = (t0 + 5651);
+    t37 = (t0 + 5888U);
+    t41 = (t0 + 6103);
     t44 = (t43 + 0U);
     t45 = (t44 + 0U);
     *((int *)t45) = 0;
@@ -232,8 +232,8 @@ LAB13:    if (t4 == 1)
 
 LAB9:    t45 = (t0 + 1032U);
     t48 = *((char **)t45);
-    t45 = (t0 + 5436U);
-    t49 = (t0 + 5657);
+    t45 = (t0 + 5888U);
+    t49 = (t0 + 6109);
     t52 = (t51 + 0U);
     t53 = (t52 + 0U);
     *((int *)t53) = 0;
@@ -256,8 +256,8 @@ LAB7:
 LAB6:    xsi_set_current_line(61, ng0);
     t1 = (t0 + 1032U);
     t2 = *((char **)t1);
-    t1 = (t0 + 5436U);
-    t5 = (t0 + 5663);
+    t1 = (t0 + 5888U);
+    t5 = (t0 + 6115);
     t7 = (t14 + 0U);
     t8 = (t7 + 0U);
     *((int *)t8) = 0;
@@ -276,8 +276,8 @@ LAB6:    xsi_set_current_line(61, ng0);
 
 LAB30:    t8 = (t0 + 1032U);
     t9 = *((char **)t8);
-    t8 = (t0 + 5436U);
-    t10 = (t0 + 5669);
+    t8 = (t0 + 5888U);
+    t10 = (t0 + 6121);
     t20 = (t19 + 0U);
     t21 = (t20 + 0U);
     *((int *)t21) = 0;
@@ -300,8 +300,8 @@ LAB28:
 LAB27:    xsi_set_current_line(72, ng0);
     t1 = (t0 + 1032U);
     t2 = *((char **)t1);
-    t1 = (t0 + 5436U);
-    t5 = (t0 + 5675);
+    t1 = (t0 + 5888U);
+    t5 = (t0 + 6127);
     t7 = (t14 + 0U);
     t8 = (t7 + 0U);
     *((int *)t8) = 0;
@@ -320,8 +320,8 @@ LAB27:    xsi_set_current_line(72, ng0);
 
 LAB39:    t8 = (t0 + 1192U);
     t9 = *((char **)t8);
-    t8 = (t0 + 5452U);
-    t10 = (t0 + 5681);
+    t8 = (t0 + 5904U);
+    t10 = (t0 + 6133);
     t20 = (t19 + 0U);
     t21 = (t20 + 0U);
     *((int *)t21) = 0;
@@ -379,7 +379,7 @@ LAB5:    xsi_set_current_line(49, ng0);
     xsi_set_current_line(50, ng0);
     t1 = (t0 + 1192U);
     t2 = *((char **)t1);
-    t1 = (t0 + 5452U);
+    t1 = (t0 + 5904U);
     t15 = ieee_p_3620187407_sub_514432868_3965413181(IEEE_P_3620187407, t2, t1);
     t3 = (t15 == 0);
     if (t3 != 0)
@@ -456,7 +456,7 @@ LAB26:    xsi_set_current_line(62, ng0);
     xsi_set_current_line(63, ng0);
     t1 = (t0 + 1192U);
     t2 = *((char **)t1);
-    t1 = (t0 + 5452U);
+    t1 = (t0 + 5904U);
     t15 = ieee_p_3620187407_sub_514432868_3965413181(IEEE_P_3620187407, t2, t1);
     t3 = (t15 == 0);
     if (t3 != 0)
@@ -622,7 +622,7 @@ LAB35:    xsi_set_current_line(73, ng0);
     xsi_set_current_line(74, ng0);
     t1 = (t0 + 1192U);
     t2 = *((char **)t1);
-    t1 = (t0 + 5452U);
+    t1 = (t0 + 5904U);
     t15 = ieee_p_3620187407_sub_514432868_3965413181(IEEE_P_3620187407, t2, t1);
     t3 = (t15 == 0);
     if (t3 != 0)

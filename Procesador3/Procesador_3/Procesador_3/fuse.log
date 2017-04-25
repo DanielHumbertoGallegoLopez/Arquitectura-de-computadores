@@ -1,20 +1,20 @@
-Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/prueba_procesadorUnion_isim_beh.exe -prj C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/prueba_procesadorUnion_beh.prj work.prueba_procesadorUnion 
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/prueba_procesadorUnion_isim_beh.exe -prj C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/prueba_procesadorUnion_beh.prj work.prueba_procesadorUnion 
 ISim P.20131013 (signature 0x7708f090)
 Number of CPUs detected in this system: 4
 Turning on mult-threading, number of parallel sub-compilation jobs: 8 
 Determining compilation order of HDL files
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/UC.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/Suma.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/SEU.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/RegisterFile.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/pSR.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/nPC.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/MUX.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/modifierPSR.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/IM.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/ALU.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/procesadorUnion.vhd" into library work
-Parsing VHDL file "C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/prueba_procesadorUnion.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/UC.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/Suma.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/SEU.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/RegisterFile.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/pSR.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/nPC.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/MUX.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/modifierPSR.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/IM.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/procesadorUnion.vhd" into library work
+Parsing VHDL file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/prueba_procesadorUnion.vhd" into library work
 Starting static elaboration
 Completed static elaboration
 Compiling package standard
@@ -38,6 +38,6 @@ Compiling architecture behavior of entity prueba_procesadorunion
 Time Resolution for simulation is 1ps.
 Waiting for 6 sub-compilation(s) to finish...
 Compiled 29 VHDL Units
-Built simulation executable C:/Users/Daniel/Desktop/Procesador_3/Procesador_3/prueba_procesadorUnion_isim_beh.exe
-Fuse Memory Usage: 35904 KB
-Fuse CPU Usage: 1405 ms
+Built simulation executable C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/prueba_procesadorUnion_isim_beh.exe
+Fuse Memory Usage: 35964 KB
+Fuse CPU Usage: 1515 ms

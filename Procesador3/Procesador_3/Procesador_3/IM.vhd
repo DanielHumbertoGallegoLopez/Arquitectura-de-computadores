@@ -23,7 +23,7 @@ use IEEE.STD_LOGIC_UNSIGNED.ALL;	--(Proporciona cálculo numérico sin signo del t
 use std.textio.all;					--(Proporciona entrada / salida para 1164 tipos
 												--Las funciones definidas incluyen: readline leer
 												--WriteLine línea de fondo de escritura)
-
+									
 ----------------------------------------------------------------------------------
 
 entity iM is

@@ -43,7 +43,7 @@ process(AluOp ,Rs1,Dmux)
 										SalidALU <= Rs1 + Dmux;
 								
 								when "010000" => -- addcc
-										SalidALU <= Rs1+ Dmux;
+										SalidALU <= Rs1 + Dmux;
 								
 								when "001000" => -- addX
 										SalidALU <= Rs1 + Dmux + Carry;

@@ -17,8 +17,6 @@ at 0 ps, Instance /prueba_procesadorunion/uut/Inst_registerFile/ : Warning: CONV
 at 0 ps, Instance /prueba_procesadorunion/uut/Inst_registerFile/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
 Finished circuit initialization process.
 ERROR: Index 32 out of bound 0 to 31. 
-ERROR: In process IM.vhd:60 
+ERROR: In process IM.vhd:59 
  
-INFO: Simulator is stopped.
-# run 100ns
 INFO: Simulator is stopped.

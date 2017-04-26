@@ -4,13 +4,13 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.32 secs
+Total CPU time to Xst completion: 0.30 secs
  
 --> Parameter xsthdpdir set to xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.32 secs
+Total CPU time to Xst completion: 0.31 secs
  
 --> Reading design: procesadorUnion.prj
 
@@ -104,26 +104,6 @@ Slice Utilization Ratio Delta      : 5
 =========================================================================
 *                          HDL Compilation                              *
 =========================================================================
-WARNING:HDLParsers:3607 - Unit work/procesadorUnion is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/procesadorUnion.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/procesadorUnion.vhd".
-WARNING:HDLParsers:3607 - Unit work/procesadorUnion/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/procesadorUnion.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/procesadorUnion.vhd".
-WARNING:HDLParsers:3607 - Unit work/aLU is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/ALU.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/ALU.vhd".
-WARNING:HDLParsers:3607 - Unit work/aLU/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/ALU.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/ALU.vhd".
-WARNING:HDLParsers:3607 - Unit work/modifierPSR is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/modifierPSR.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/modifierPSR.vhd".
-WARNING:HDLParsers:3607 - Unit work/modifierPSR/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/modifierPSR.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/modifierPSR.vhd".
-WARNING:HDLParsers:3607 - Unit work/mUX is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/MUX.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/MUX.vhd".
-WARNING:HDLParsers:3607 - Unit work/mUX/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/MUX.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/MUX.vhd".
-WARNING:HDLParsers:3607 - Unit work/nPC is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/nPC.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/nPC.vhd".
-WARNING:HDLParsers:3607 - Unit work/nPC/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/nPC.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/nPC.vhd".
-WARNING:HDLParsers:3607 - Unit work/pSR is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/pSR.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/pSR.vhd".
-WARNING:HDLParsers:3607 - Unit work/pSR/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/pSR.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/pSR.vhd".
-WARNING:HDLParsers:3607 - Unit work/registerFile is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/RegisterFile.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/RegisterFile.vhd".
-WARNING:HDLParsers:3607 - Unit work/registerFile/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/RegisterFile.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/RegisterFile.vhd".
-WARNING:HDLParsers:3607 - Unit work/sEU is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/SEU.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/SEU.vhd".
-WARNING:HDLParsers:3607 - Unit work/sEU/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/SEU.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/SEU.vhd".
-WARNING:HDLParsers:3607 - Unit work/sumador is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/Suma.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/Suma.vhd".
-WARNING:HDLParsers:3607 - Unit work/sumador/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/Suma.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/Suma.vhd".
-WARNING:HDLParsers:3607 - Unit work/uC is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/UC.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/UC.vhd".
-WARNING:HDLParsers:3607 - Unit work/uC/Behavioral is now defined in a different file.  It was defined in "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/UC.vhd", and is now defined in "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/UC.vhd".
 Compiling vhdl file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/Suma.vhd" in Library work.
 Architecture behavioral of Entity sumador is up to date.
 Compiling vhdl file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/nPC.vhd" in Library work.
@@ -143,8 +123,7 @@ Architecture behavioral of Entity psr is up to date.
 Compiling vhdl file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/MUX.vhd" in Library work.
 Architecture behavioral of Entity mux is up to date.
 Compiling vhdl file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/ALU.vhd" in Library work.
-Entity <alu> compiled.
-Entity <alu> (Architecture <behavioral>) compiled.
+Architecture behavioral of Entity alu is up to date.
 Compiling vhdl file "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/procesadorUnion.vhd" in Library work.
 Architecture behavioral of Entity procesadorunion is up to date.
 
@@ -187,7 +166,7 @@ Analyzing Entity <nPC> in library <work> (Architecture <behavioral>).
 Entity <nPC> analyzed. Unit <nPC> generated.
 
 Analyzing Entity <iM> in library <work> (Architecture <behavioral>).
-WARNING:Xst:790 - "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/IM.vhd" line 66: Index value(s) does not match array range, simulation mismatch.
+WARNING:Xst:790 - "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/IM.vhd" line 65: Index value(s) does not match array range, simulation mismatch.
 INFO:Xst:1433 - Contents of array <instructions> may be accessed with an index that exceeds the array size. This could cause simulation mismatch.
 Entity <iM> analyzed. Unit <iM> generated.
 
@@ -218,7 +197,7 @@ Analyzing Entity <mUX> in library <work> (Architecture <behavioral>).
 Entity <mUX> analyzed. Unit <mUX> generated.
 
 Analyzing Entity <aLU> in library <work> (Architecture <behavioral>).
-WARNING:Xst:819 - "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/ALU.vhd" line 37: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+WARNING:Xst:819 - "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/ALU.vhd" line 36: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
    <Carry>
 Entity <aLU> analyzed. Unit <aLU> generated.
 
@@ -257,7 +236,7 @@ Synthesizing Unit <iM>.
     Related source file is "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/IM.vhd".
 WARNING:Xst:647 - Input <nPC<31:6>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 WARNING:Xst:1781 - Signal <instructions> is used but never assigned. Tied to default value.
-    Found 32x32-bit ROM for signal <$varindex0000> created at line 66.
+    Found 32x32-bit ROM for signal <$varindex0000> created at line 65.
     Summary:
 	inferred   1 ROM(s).
 Unit <iM> synthesized.
@@ -320,25 +299,22 @@ Unit <sEU> synthesized.
 
 Synthesizing Unit <modifierPSR>.
     Related source file is "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/modifierPSR.vhd".
-WARNING:Xst:647 - Input <Crs1<30:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
-WARNING:Xst:647 - Input <Operador2<30:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 WARNING:Xst:737 - Found 1-bit latch for signal <nzvc_0>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
-INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
 WARNING:Xst:737 - Found 1-bit latch for signal <nzvc_1>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
-INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
 WARNING:Xst:737 - Found 1-bit latch for signal <nzvc_2>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
-INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
 WARNING:Xst:737 - Found 1-bit latch for signal <nzvc_3>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
-INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
 Unit <modifierPSR> synthesized.
 
 
 Synthesizing Unit <pSR>.
     Related source file is "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/pSR.vhd".
-WARNING:Xst:647 - Input <nzvc<3:1>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:1780 - Signal <PSR<31:24>> is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+WARNING:Xst:646 - Signal <PSR<23:21>> is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+WARNING:Xst:1780 - Signal <PSR<19:0>> is never used or assigned. This unconnected signal will be trimmed during the optimization process.
     Found 1-bit register for signal <Carry>.
+    Found 1-bit register for signal <PSR<20>>.
     Summary:
-	inferred   1 D-type flip-flop(s).
+	inferred   2 D-type flip-flop(s).
 Unit <pSR> synthesized.
 
 
@@ -350,9 +326,9 @@ Unit <mUX> synthesized.
 Synthesizing Unit <aLU>.
     Related source file is "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/ALU.vhd".
     Found 32-bit adder carry in for signal <SalidALU$addsub0000>.
-    Found 32-bit subtractor for signal <SalidALU$addsub0001> created at line 55.
-    Found 32-bit subtractor for signal <SalidALU$addsub0002> created at line 61.
-    Found 32-bit xor2 for signal <SalidALU$xor0000> created at line 91.
+    Found 32-bit subtractor for signal <SalidALU$addsub0001> created at line 54.
+    Found 32-bit subtractor for signal <SalidALU$addsub0002> created at line 60.
+    Found 32-bit xor2 for signal <SalidALU$xor0000> created at line 90.
     Summary:
 	inferred   3 Adder/Subtractor(s).
 Unit <aLU> synthesized.
@@ -375,8 +351,8 @@ Macro Statistics
  32-bit adder                                          : 1
  32-bit adder carry in                                 : 1
  32-bit subtractor                                     : 2
-# Registers                                            : 2
- 1-bit register                                        : 1
+# Registers                                            : 3
+ 1-bit register                                        : 2
  32-bit register                                       : 1
 # Latches                                              : 37
  1-bit latch                                           : 4
@@ -405,8 +381,8 @@ Macro Statistics
  32-bit adder                                          : 1
  32-bit adder carry in                                 : 1
  32-bit subtractor                                     : 2
-# Registers                                            : 33
- Flip-Flops                                            : 33
+# Registers                                            : 34
+ Flip-Flops                                            : 34
 # Latches                                              : 37
  1-bit latch                                           : 4
  32-bit latch                                          : 32
@@ -433,11 +409,7 @@ Optimizing unit <aLU> ...
 Optimizing unit <uC> ...
 
 Optimizing unit <registerFile> ...
-WARNING:Xst:1710 - FF/Latch <Inst_uC/AluOp_5> (without init value) has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <Inst_uC/AluOp_3> (without init value) has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <Inst_uC/AluOp_2> (without init value) has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <Inst_uC/AluOp_0> (without init value) has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <Inst_registerFile/regist_27_7> has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1293 - FF/Latch <Inst_registerFile/regist_27_7> has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
 WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <Inst_registerFile/regist_27_6> has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
 WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <Inst_registerFile/regist_27_5> has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
 WARNING:Xst:1896 - Due to other FF/Latch trimming, FF/Latch <Inst_registerFile/regist_27_4> has a constant value of 0 in block <procesadorUnion>. This FF/Latch will be trimmed during the optimization process.
@@ -1238,135 +1210,32 @@ WARNING:Xst:2677 - Node <Inst_modifierPSR/nzvc_3> of sequential type is unconnec
 
 Mapping all equations...
 Building and optimizing final netlist ...
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_0> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_0> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_0> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_0> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_10> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_10> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_10> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_10> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_11> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_11> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_11> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_11> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_1> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_1> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_1> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_1> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_20> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_20> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_20> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_20> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_21> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_21> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_21> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_21> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_22> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_22> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_22> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_22> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_23> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_23> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_23> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_23> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_24> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_24> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_24> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_24> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_25> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_25> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_25> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_25> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_26> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_26> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_26> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_26> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_27> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_27> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_27> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_27> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_28> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_28> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_28> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_28> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_12> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_12> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_12> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_12> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_29> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_29> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_29> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_29> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_2> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_2> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_2> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_2> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_30> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_30> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_30> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_30> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_31> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_31> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_31> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_31> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_3> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_3> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_3> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_3> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_4> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_4> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_4> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_4> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_5> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_5> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_5> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_5> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_6> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_6> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_6> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_6> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_7> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_7> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_7> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_7> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_8> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_8> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_8> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_8> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_13> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_13> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_13> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_13> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_9> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_9> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_9> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_9> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_14> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_14> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_14> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_14> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_15> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_15> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_15> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_15> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_16> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_16> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_16> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_16> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_17> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_17> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_17> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_17> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_18> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_18> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_18> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_18> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_2_19> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_18_19> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_3_19> is unconnected in block <procesadorUnion>.
-WARNING:Xst:1898 - Due to constant pushing, FF/Latch <Inst_registerFile/regist_19_19> is unconnected in block <procesadorUnion>.
-Found area constraint ratio of 100 (+ 5) on block procesadorUnion, actual ratio is 21.
+INFO:Xst:2261 - The FF/Latch <Inst_uC/AluOp_5> in Unit <procesadorUnion> is equivalent to the following 2 FFs/Latches, which will be removed : <Inst_uC/AluOp_2> <Inst_uC/AluOp_0> 
+Found area constraint ratio of 100 (+ 5) on block procesadorUnion, actual ratio is 47.
+INFO:Xst:2260 - The FF/Latch <Inst_uC/AluOp_4> in Unit <procesadorUnion> is equivalent to the following FF/Latch : <Inst_uC/AluOp_3> 
+INFO:Xst:2261 - The FF/Latch <Inst_uC/AluOp_4> in Unit <procesadorUnion> is equivalent to the following FF/Latch, which will be removed : <Inst_uC/AluOp_3> 
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_30> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_29> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_28> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_27> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_26> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_25> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_24> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_23> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_22> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_21> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_20> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_19> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_18> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_17> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_16> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_15> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_14> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_13> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_12> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_11> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_10> of sequential type is unconnected in block <procesadorUnion>.
+WARNING:Xst:2677 - Node <Inst_registerFile/regist_17_9> of sequential type is unconnected in block <procesadorUnion>.
 
 Final Macro Processing ...
 
@@ -1374,8 +1243,8 @@ Final Macro Processing ...
 Final Register Report
 
 Macro Statistics
-# Registers                                            : 6
- Flip-Flops                                            : 6
+# Registers                                            : 7
+ Flip-Flops                                            : 7
 
 =========================================================================
 
@@ -1404,24 +1273,29 @@ Design Statistics
 # IOs                              : 34
 
 Cell Usage :
-# BELS                             : 467
+# BELS                             : 448
 #      GND                         : 1
-#      INV                         : 1
-#      LUT1                        : 132
-#      LUT2                        : 33
-#      LUT3                        : 5
-#      LUT4                        : 91
-#      LUT4_D                      : 25
-#      MUXCY                       : 43
-#      MUXF5                       : 66
-#      MUXF6                       : 32
+#      INV                         : 2
+#      LUT1                        : 4
+#      LUT2                        : 28
+#      LUT2_L                      : 1
+#      LUT3                        : 44
+#      LUT4                        : 149
+#      LUT4_D                      : 14
+#      LUT4_L                      : 24
+#      MUXCY                       : 35
+#      MUXF5                       : 55
+#      MUXF6                       : 42
+#      MUXF7                       : 10
+#      MUXF8                       : 1
 #      VCC                         : 1
 #      XORCY                       : 37
-# FlipFlops/Latches                : 105
-#      FDC                         : 1
-#      FDR                         : 5
-#      LD                          : 3
-#      LDCE                        : 96
+# FlipFlops/Latches                : 116
+#      FDE                         : 1
+#      FDR                         : 6
+#      LD                          : 2
+#      LDCE                        : 106
+#      LDCP                        : 1
 # Clock Buffers                    : 4
 #      BUFG                        : 3
 #      BUFGP                       : 1
@@ -1435,9 +1309,9 @@ Device utilization summary:
 
 Selected Device : 3s100evq100-4 
 
- Number of Slices:                      161  out of    960    16%  
- Number of Slice Flip Flops:            105  out of   1920     5%  
- Number of 4 input LUTs:                287  out of   1920    14%  
+ Number of Slices:                      203  out of    960    21%  
+ Number of Slice Flip Flops:            116  out of   1920     6%  
+ Number of 4 input LUTs:                266  out of   1920    13%  
  Number of IOs:                          34
  Number of bonded IOBs:                  34  out of     66    51%  
  Number of GCLKs:                         4  out of     24    16%  
@@ -1460,16 +1334,17 @@ NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
 
 Clock Information:
 ------------------
-----------------------------------------------------------------------------------+----------------------------------------+-------+
-Clock Signal                                                                      | Clock buffer(FF name)                  | Load  |
-----------------------------------------------------------------------------------+----------------------------------------+-------+
-clk                                                                               | BUFGP                                  | 6     |
-Inst_modifierPSR/nzvc_0_not0001(Inst_modifierPSR/nzvc_0_not00011:O)               | NONE(*)(Inst_modifierPSR/nzvc_0)       | 1     |
-Inst_uC/AluOp_cmp_eq0000(iMTouCrFsEU<29>1:O)                                      | NONE(*)(Inst_uC/AluOp_4)               | 2     |
-Inst_registerFile/regist_16_cmp_eq00001(Inst_registerFile/regist_16_cmp_eq00001:O)| BUFG(*)(Inst_registerFile/regist_16_31)| 32    |
-Inst_registerFile/regist_17_cmp_eq00001(Inst_registerFile/regist_17_cmp_eq00001:O)| BUFG(*)(Inst_registerFile/regist_17_31)| 32    |
-Inst_registerFile/regist_0_cmp_eq00001(Inst_registerFile/regist_0_cmp_eq00001:O)  | BUFG(*)(Inst_registerFile/regist_0_31) | 32    |
-----------------------------------------------------------------------------------+----------------------------------------+-------+
+---------------------------------------------------------------------------------+----------------------------------------+-------+
+Clock Signal                                                                     | Clock buffer(FF name)                  | Load  |
+---------------------------------------------------------------------------------+----------------------------------------+-------+
+clk                                                                              | BUFGP                                  | 7     |
+Inst_modifierPSR/nzvc_0_or0000                                                   | NONE(Inst_modifierPSR/nzvc_0)          | 1     |
+Inst_registerFile/regist_10_not0000(iMTouCrFsEU<29>1:O)                          | NONE(*)(Inst_uC/AluOp_4)               | 2     |
+Inst_registerFile/regist_16_cmp_eq00001(Inst_iM/SalidaIM<2>1:O)                  | BUFG(*)(Inst_registerFile/regist_16_31)| 32    |
+Inst_registerFile/regist_17_cmp_eq0000(Inst_registerFile/regist_17_cmp_eq00001:O)| NONE(*)(Inst_registerFile/regist_17_31)| 10    |
+Inst_registerFile/regist_18_cmp_eq00001(iMTouCrFsEU<18>1:O)                      | BUFG(*)(Inst_registerFile/regist_18_31)| 32    |
+Inst_registerFile/regist_0_cmp_eq00001(Inst_registerFile/regist_0_cmp_eq00001:O) | BUFG(*)(Inst_registerFile/regist_0_31) | 32    |
+---------------------------------------------------------------------------------+----------------------------------------+-------+
 (*) These 5 clock signal(s) are generated by combinatorial logic,
 and XST is not able to identify which are the primary clock signals.
 Please use the CLOCK_SIGNAL constraint to specify the clock signal(s) generated by combinatorial logic.
@@ -1477,20 +1352,22 @@ INFO:Xst:2169 - HDL ADVISOR - Some clock signals were not automatically buffered
 
 Asynchronous Control Signals Information:
 ----------------------------------------
------------------------------------+------------------------+-------+
-Control Signal                     | Buffer(FF name)        | Load  |
------------------------------------+------------------------+-------+
-Rst                                | IBUF                   | 97    |
------------------------------------+------------------------+-------+
+-------------------------------------------------------------------+------------------------------+-------+
+Control Signal                                                     | Buffer(FF name)              | Load  |
+-------------------------------------------------------------------+------------------------------+-------+
+Rst                                                                | IBUF                         | 106   |
+Inst_modifierPSR/nzvc_0__and0000(Inst_modifierPSR/nzvc_0_mux0003:O)| NONE(Inst_modifierPSR/nzvc_0)| 1     |
+Inst_modifierPSR/nzvc_0__or0000(Inst_modifierPSR/nzvc_0__or00001:O)| NONE(Inst_modifierPSR/nzvc_0)| 1     |
+-------------------------------------------------------------------+------------------------------+-------+
 
 Timing Summary:
 ---------------
 Speed Grade: -4
 
-   Minimum period: 9.676ns (Maximum Frequency: 103.348MHz)
-   Minimum input arrival time before clock: 19.450ns
-   Maximum output required time after clock: 18.437ns
-   Maximum combinational path delay: 19.607ns
+   Minimum period: 10.088ns (Maximum Frequency: 99.128MHz)
+   Minimum input arrival time before clock: 20.445ns
+   Maximum output required time after clock: 17.965ns
+   Maximum combinational path delay: 19.178ns
 
 Timing Detail:
 --------------
@@ -1498,37 +1375,36 @@ All values displayed in nanoseconds (ns)
 
 =========================================================================
 Timing constraint: Default period analysis for Clock 'clk'
-  Clock period: 4.311ns (frequency: 231.973MHz)
-  Total number of paths / destination ports: 15 / 5
+  Clock period: 4.443ns (frequency: 225.076MHz)
+  Total number of paths / destination ports: 16 / 6
 -------------------------------------------------------------------------
-Delay:               4.311ns (Levels of Logic = 6)
-  Source:            Inst_nPC/Dout_0 (FF)
+Delay:               4.443ns (Levels of Logic = 5)
+  Source:            Inst_nPC/Dout_1 (FF)
   Destination:       Inst_nPC/Dout_4 (FF)
   Source Clock:      clk rising
   Destination Clock: clk rising
 
-  Data Path: Inst_nPC/Dout_0 to Inst_nPC/Dout_4
+  Data Path: Inst_nPC/Dout_1 to Inst_nPC/Dout_4
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FDR:C->Q             34   0.591   1.263  Inst_nPC/Dout_0 (Inst_nPC/Dout_0)
-     INV:I->O              1   0.704   0.000  Inst_sumador/Madd_SalidaSuma_lut<0>_INV_0 (Inst_sumador/Madd_SalidaSuma_lut<0>)
-     MUXCY:S->O            1   0.464   0.000  Inst_sumador/Madd_SalidaSuma_cy<0> (Inst_sumador/Madd_SalidaSuma_cy<0>)
-     MUXCY:CI->O           1   0.059   0.000  Inst_sumador/Madd_SalidaSuma_cy<1> (Inst_sumador/Madd_SalidaSuma_cy<1>)
+     FDR:C->Q             85   0.591   1.454  Inst_nPC/Dout_1 (Inst_nPC/Dout_1)
+     LUT1:I0->O            1   0.704   0.000  Inst_sumador/Madd_SalidaSuma_cy<1>_rt (Inst_sumador/Madd_SalidaSuma_cy<1>_rt)
+     MUXCY:S->O            1   0.464   0.000  Inst_sumador/Madd_SalidaSuma_cy<1> (Inst_sumador/Madd_SalidaSuma_cy<1>)
      MUXCY:CI->O           1   0.059   0.000  Inst_sumador/Madd_SalidaSuma_cy<2> (Inst_sumador/Madd_SalidaSuma_cy<2>)
      MUXCY:CI->O           0   0.059   0.000  Inst_sumador/Madd_SalidaSuma_cy<3> (Inst_sumador/Madd_SalidaSuma_cy<3>)
      XORCY:CI->O           1   0.804   0.000  Inst_sumador/Madd_SalidaSuma_xor<4> (sumadorTonPC<4>)
      FDR:D                     0.308          Inst_nPC/Dout_4
     ----------------------------------------
-    Total                      4.311ns (3.048ns logic, 1.263ns route)
-                                       (70.7% logic, 29.3% route)
+    Total                      4.443ns (2.989ns logic, 1.454ns route)
+                                       (67.3% logic, 32.7% route)
 
 =========================================================================
 Timing constraint: Default period analysis for Clock 'Inst_registerFile/regist_16_cmp_eq00001'
-  Clock period: 9.676ns (frequency: 103.348MHz)
-  Total number of paths / destination ports: 1616 / 32
+  Clock period: 10.088ns (frequency: 99.128MHz)
+  Total number of paths / destination ports: 1319 / 32
 -------------------------------------------------------------------------
-Delay:               9.676ns (Levels of Logic = 38)
+Delay:               10.088ns (Levels of Logic = 39)
   Source:            Inst_registerFile/regist_16_0 (LATCH)
   Destination:       Inst_registerFile/regist_16_31 (LATCH)
   Source Clock:      Inst_registerFile/regist_16_cmp_eq00001 falling
@@ -1538,11 +1414,12 @@ Delay:               9.676ns (Levels of Logic = 38)
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     LDCE:G->Q             2   0.676   0.622  Inst_registerFile/regist_16_0 (Inst_registerFile/regist_16_0)
-     LUT1:I0->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_8_f5_rt1 (Inst_registerFile/Mmux__varindex0001_8_f5_rt1)
+     LDCE:G->Q             2   0.676   0.451  Inst_registerFile/regist_16_0 (Inst_registerFile/regist_16_0)
+     LUT4:I3->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_93 (Inst_registerFile/Mmux__varindex0001_93)
      MUXF5:I1->O           1   0.321   0.000  Inst_registerFile/Mmux__varindex0001_8_f5 (Inst_registerFile/Mmux__varindex0001_8_f5)
-     MUXF6:I0->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_6_f6)
+     MUXF7:I0->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -1575,33 +1452,34 @@ Delay:               9.676ns (Levels of Logic = 38)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.000  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.000  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      LDCE:D                    0.308          Inst_registerFile/regist_16_31
     ----------------------------------------
-    Total                      9.676ns (7.680ns logic, 1.996ns route)
-                                       (79.4% logic, 20.6% route)
+    Total                     10.088ns (8.236ns logic, 1.852ns route)
+                                       (81.6% logic, 18.4% route)
 
 =========================================================================
-Timing constraint: Default period analysis for Clock 'Inst_registerFile/regist_17_cmp_eq00001'
-  Clock period: 9.649ns (frequency: 103.638MHz)
-  Total number of paths / destination ports: 560 / 32
+Timing constraint: Default period analysis for Clock 'Inst_registerFile/regist_17_cmp_eq0000'
+  Clock period: 10.061ns (frequency: 99.394MHz)
+  Total number of paths / destination ports: 65 / 10
 -------------------------------------------------------------------------
-Delay:               9.649ns (Levels of Logic = 38)
+Delay:               10.061ns (Levels of Logic = 39)
   Source:            Inst_registerFile/regist_17_0 (LATCH)
   Destination:       Inst_registerFile/regist_17_31 (LATCH)
-  Source Clock:      Inst_registerFile/regist_17_cmp_eq00001 falling
-  Destination Clock: Inst_registerFile/regist_17_cmp_eq00001 falling
+  Source Clock:      Inst_registerFile/regist_17_cmp_eq0000 falling
+  Destination Clock: Inst_registerFile/regist_17_cmp_eq0000 falling
 
   Data Path: Inst_registerFile/regist_17_0 to Inst_registerFile/regist_17_31
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     LDCE:G->Q             1   0.676   0.595  Inst_registerFile/regist_17_0 (Inst_registerFile/regist_17_0)
-     LUT1:I0->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1_rt1 (Inst_registerFile/Mmux__varindex0001_7_f5_1_rt1)
+     LDCE:G->Q             1   0.676   0.424  Inst_registerFile/regist_17_0 (Inst_registerFile/regist_17_0)
+     LUT4:I3->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_85 (Inst_registerFile/Mmux__varindex0001_85)
      MUXF5:I1->O           1   0.321   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1 (Inst_registerFile/Mmux__varindex0001_7_f52)
-     MUXF6:I1->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     MUXF6:I1->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_6_f6)
+     MUXF7:I0->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -1634,19 +1512,79 @@ Delay:               9.649ns (Levels of Logic = 38)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.000  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.000  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      LDCE:D                    0.308          Inst_registerFile/regist_17_31
     ----------------------------------------
-    Total                      9.649ns (7.680ns logic, 1.969ns route)
-                                       (79.6% logic, 20.4% route)
+    Total                     10.061ns (8.236ns logic, 1.825ns route)
+                                       (81.9% logic, 18.1% route)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'Inst_registerFile/regist_18_cmp_eq00001'
+  Clock period: 10.061ns (frequency: 99.394MHz)
+  Total number of paths / destination ports: 560 / 32
+-------------------------------------------------------------------------
+Delay:               10.061ns (Levels of Logic = 39)
+  Source:            Inst_registerFile/regist_18_0 (LATCH)
+  Destination:       Inst_registerFile/regist_18_31 (LATCH)
+  Source Clock:      Inst_registerFile/regist_18_cmp_eq00001 falling
+  Destination Clock: Inst_registerFile/regist_18_cmp_eq00001 falling
+
+  Data Path: Inst_registerFile/regist_18_0 to Inst_registerFile/regist_18_31
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     LDCE:G->Q             1   0.676   0.424  Inst_registerFile/regist_18_0 (Inst_registerFile/regist_18_0)
+     LUT4:I3->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_84 (Inst_registerFile/Mmux__varindex0001_84)
+     MUXF5:I1->O           1   0.321   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
+     LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
+     MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<2> (Inst_aLU/Madd_SalidALU_addsub0000_cy<2>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<3> (Inst_aLU/Madd_SalidALU_addsub0000_cy<3>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<4> (Inst_aLU/Madd_SalidALU_addsub0000_cy<4>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<5> (Inst_aLU/Madd_SalidALU_addsub0000_cy<5>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<6> (Inst_aLU/Madd_SalidALU_addsub0000_cy<6>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<7> (Inst_aLU/Madd_SalidALU_addsub0000_cy<7>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<8> (Inst_aLU/Madd_SalidALU_addsub0000_cy<8>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<9> (Inst_aLU/Madd_SalidALU_addsub0000_cy<9>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<10> (Inst_aLU/Madd_SalidALU_addsub0000_cy<10>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<11> (Inst_aLU/Madd_SalidALU_addsub0000_cy<11>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<12> (Inst_aLU/Madd_SalidALU_addsub0000_cy<12>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<13> (Inst_aLU/Madd_SalidALU_addsub0000_cy<13>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<14> (Inst_aLU/Madd_SalidALU_addsub0000_cy<14>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<15> (Inst_aLU/Madd_SalidALU_addsub0000_cy<15>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<16> (Inst_aLU/Madd_SalidALU_addsub0000_cy<16>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<17> (Inst_aLU/Madd_SalidALU_addsub0000_cy<17>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<18> (Inst_aLU/Madd_SalidALU_addsub0000_cy<18>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<19> (Inst_aLU/Madd_SalidALU_addsub0000_cy<19>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<20> (Inst_aLU/Madd_SalidALU_addsub0000_cy<20>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<21> (Inst_aLU/Madd_SalidALU_addsub0000_cy<21>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<22> (Inst_aLU/Madd_SalidALU_addsub0000_cy<22>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<23> (Inst_aLU/Madd_SalidALU_addsub0000_cy<23>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<24> (Inst_aLU/Madd_SalidALU_addsub0000_cy<24>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<25> (Inst_aLU/Madd_SalidALU_addsub0000_cy<25>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<26> (Inst_aLU/Madd_SalidALU_addsub0000_cy<26>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<27> (Inst_aLU/Madd_SalidALU_addsub0000_cy<27>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
+     MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.000  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
+     LDCE:D                    0.308          Inst_registerFile/regist_18_31
+    ----------------------------------------
+    Total                     10.061ns (8.236ns logic, 1.825ns route)
+                                       (81.9% logic, 18.1% route)
 
 =========================================================================
 Timing constraint: Default period analysis for Clock 'Inst_registerFile/regist_0_cmp_eq00001'
-  Clock period: 9.676ns (frequency: 103.348MHz)
-  Total number of paths / destination ports: 1616 / 32
+  Clock period: 10.088ns (frequency: 99.128MHz)
+  Total number of paths / destination ports: 1319 / 32
 -------------------------------------------------------------------------
-Delay:               9.676ns (Levels of Logic = 38)
+Delay:               10.088ns (Levels of Logic = 39)
   Source:            Inst_registerFile/regist_0_0 (LATCH)
   Destination:       Inst_registerFile/regist_0_31 (LATCH)
   Source Clock:      Inst_registerFile/regist_0_cmp_eq00001 falling
@@ -1656,11 +1594,12 @@ Delay:               9.676ns (Levels of Logic = 38)
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     LDCE:G->Q             2   0.676   0.622  Inst_registerFile/regist_0_0 (Inst_registerFile/regist_0_0)
-     LUT1:I0->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_8_f5_rt (Inst_registerFile/Mmux__varindex0001_8_f5_rt)
+     LDCE:G->Q             2   0.676   0.451  Inst_registerFile/regist_0_0 (Inst_registerFile/regist_0_0)
+     LUT4:I3->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_10 (Inst_registerFile/Mmux__varindex0001_10)
      MUXF5:I0->O           1   0.321   0.000  Inst_registerFile/Mmux__varindex0001_8_f5 (Inst_registerFile/Mmux__varindex0001_8_f5)
-     MUXF6:I0->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_6_f6)
+     MUXF7:I0->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -1693,52 +1632,53 @@ Delay:               9.676ns (Levels of Logic = 38)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.000  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.000  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      LDCE:D                    0.308          Inst_registerFile/regist_0_31
     ----------------------------------------
-    Total                      9.676ns (7.680ns logic, 1.996ns route)
-                                       (79.4% logic, 20.6% route)
+    Total                     10.088ns (8.236ns logic, 1.852ns route)
+                                       (81.6% logic, 18.4% route)
 
 =========================================================================
 Timing constraint: Default OFFSET IN BEFORE for Clock 'clk'
-  Total number of paths / destination ports: 5 / 5
+  Total number of paths / destination ports: 7 / 7
 -------------------------------------------------------------------------
-Offset:              3.437ns (Levels of Logic = 1)
+Offset:              4.206ns (Levels of Logic = 2)
   Source:            Rst (PAD)
-  Destination:       Inst_nPC/Dout_4 (FF)
+  Destination:       Inst_pSR/PSR_20 (FF)
   Destination Clock: clk rising
 
-  Data Path: Rst to Inst_nPC/Dout_4
+  Data Path: Rst to Inst_pSR/PSR_20
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     IBUF:I->O           176   1.218   1.308  Rst_IBUF (Rst_IBUF)
-     FDR:R                     0.911          Inst_nPC/Dout_0
+     IBUF:I->O           181   1.218   1.309  Rst_IBUF (Rst_IBUF)
+     INV:I->O              1   0.704   0.420  Inst_pSR/Rst_inv1_INV_0 (Inst_pSR/Rst_inv)
+     FDE:CE                    0.555          Inst_pSR/PSR_20
     ----------------------------------------
-    Total                      3.437ns (2.129ns logic, 1.308ns route)
-                                       (61.9% logic, 38.1% route)
+    Total                      4.206ns (2.477ns logic, 1.729ns route)
+                                       (58.9% logic, 41.1% route)
 
 =========================================================================
-Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_modifierPSR/nzvc_0_not0001'
-  Total number of paths / destination ports: 7472 / 1
+Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_modifierPSR/nzvc_0_or0000'
+  Total number of paths / destination ports: 7370 / 1
 -------------------------------------------------------------------------
-Offset:              19.450ns (Levels of Logic = 43)
+Offset:              20.445ns (Levels of Logic = 44)
   Source:            Rst (PAD)
   Destination:       Inst_modifierPSR/nzvc_0 (LATCH)
-  Destination Clock: Inst_modifierPSR/nzvc_0_not0001 falling
+  Destination Clock: Inst_modifierPSR/nzvc_0_or0000 falling
 
   Data Path: Rst to Inst_modifierPSR/nzvc_0
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     IBUF:I->O           176   1.218   1.387  Rst_IBUF (Rst_IBUF)
-     LUT2:I1->O            2   0.704   0.451  Inst_mUX/SalidaMUX<0>1_SW0 (N3)
-     LUT4:I3->O           44   0.704   1.441  Inst_mUX/SalidaMUX<0>1 (N01)
-     LUT2:I0->O           66   0.704   1.273  iMTouCrFsEU<29>1 (Inst_uC/AluOp_cmp_eq0000)
-     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1 (Inst_registerFile/Mmux__varindex0001_7_f52)
-     MUXF6:I1->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     IBUF:I->O           181   1.218   1.484  Rst_IBUF (Rst_IBUF)
+     LUT4:I0->O           78   0.704   1.452  Inst_iM/SalidaIM<4>211 (N2)
+     LUT3:I0->O           52   0.704   1.269  Inst_iM/SalidaIM<4>2 (iMTouCrFsEU<4>)
+     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -1763,49 +1703,50 @@ Offset:              19.450ns (Levels of Logic = 43)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<20> (Inst_aLU/Madd_SalidALU_addsub0000_cy<20>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<21> (Inst_aLU/Madd_SalidALU_addsub0000_cy<21>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<22> (Inst_aLU/Madd_SalidALU_addsub0000_cy<22>)
-     XORCY:CI->O           1   0.804   0.424  Inst_aLU/Madd_SalidALU_addsub0000_xor<23> (Inst_aLU/SalidALU_addsub0000<23>)
-     LUT4:I3->O            5   0.704   0.808  Inst_aLU/SalidALU<23>1 (SalidaProcesador_23_OBUF)
-     LUT4:I0->O            1   0.704   0.000  Inst_modifierPSR/nzvc_0_or0000_wg_lut<0> (Inst_modifierPSR/nzvc_0_or0000_wg_lut<0>)
-     MUXCY:S->O            1   0.464   0.000  Inst_modifierPSR/nzvc_0_or0000_wg_cy<0> (Inst_modifierPSR/nzvc_0_or0000_wg_cy<0>)
-     MUXCY:CI->O           1   0.059   0.000  Inst_modifierPSR/nzvc_0_or0000_wg_cy<1> (Inst_modifierPSR/nzvc_0_or0000_wg_cy<1>)
-     MUXCY:CI->O           1   0.059   0.000  Inst_modifierPSR/nzvc_0_or0000_wg_cy<2> (Inst_modifierPSR/nzvc_0_or0000_wg_cy<2>)
-     MUXCY:CI->O           1   0.059   0.000  Inst_modifierPSR/nzvc_0_or0000_wg_cy<3> (Inst_modifierPSR/nzvc_0_or0000_wg_cy<3>)
-     MUXCY:CI->O           1   0.059   0.000  Inst_modifierPSR/nzvc_0_or0000_wg_cy<4> (Inst_modifierPSR/nzvc_0_or0000_wg_cy<4>)
-     MUXCY:CI->O           1   0.059   0.000  Inst_modifierPSR/nzvc_0_or0000_wg_cy<5> (Inst_modifierPSR/nzvc_0_or0000_wg_cy<5>)
-     MUXCY:CI->O           1   0.059   0.000  Inst_modifierPSR/nzvc_0_or0000_wg_cy<6> (Inst_modifierPSR/nzvc_0_or0000_wg_cy<6>)
-     MUXCY:CI->O           2   0.459   0.447  Inst_modifierPSR/nzvc_0_or0000_wg_cy<7> (Inst_modifierPSR/nzvc_0_or0000)
-     MUXF5:S->O            1   0.739   0.000  Inst_modifierPSR/nzvc_0_mux000367 (Inst_modifierPSR/nzvc_0_mux0003)
-     LD:D                      0.308          Inst_modifierPSR/nzvc_0
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<23> (Inst_aLU/Madd_SalidALU_addsub0000_cy<23>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<24> (Inst_aLU/Madd_SalidALU_addsub0000_cy<24>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<25> (Inst_aLU/Madd_SalidALU_addsub0000_cy<25>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<26> (Inst_aLU/Madd_SalidALU_addsub0000_cy<26>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<27> (Inst_aLU/Madd_SalidALU_addsub0000_cy<27>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<30> (Inst_aLU/SalidALU_addsub0000<30>)
+     LUT3:I2->O            5   0.704   0.637  Inst_aLU/SalidALU<30>115 (SalidaProcesador_30_OBUF)
+     LUT4:I3->O            1   0.704   0.424  Inst_modifierPSR/nzvc_0_or000396_SW0 (N133)
+     LUT4:I3->O            1   0.704   0.499  Inst_modifierPSR/nzvc_0_or000396 (Inst_modifierPSR/nzvc_0_or000396)
+     LUT4:I1->O            2   0.704   0.622  Inst_modifierPSR/nzvc_0_or0003248 (Inst_modifierPSR/nzvc_0_or0003)
+     LUT4:I0->O            3   0.704   0.000  Inst_modifierPSR/nzvc_0_mux0003 (Inst_modifierPSR/nzvc_0__and0000)
+     LDCP:D                    0.308          Inst_modifierPSR/nzvc_0
     ----------------------------------------
-    Total                     19.450ns (12.296ns logic, 7.154ns route)
-                                       (63.2% logic, 36.8% route)
+    Total                     20.445ns (12.657ns logic, 7.788ns route)
+                                       (61.9% logic, 38.1% route)
 
 =========================================================================
-Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_uC/AluOp_cmp_eq0000'
+Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_registerFile/regist_10_not0000'
   Total number of paths / destination ports: 2 / 2
 -------------------------------------------------------------------------
-Offset:              5.064ns (Levels of Logic = 3)
+Offset:              5.774ns (Levels of Logic = 3)
   Source:            Rst (PAD)
-  Destination:       Inst_uC/AluOp_4 (LATCH)
-  Destination Clock: Inst_uC/AluOp_cmp_eq0000 falling
+  Destination:       Inst_uC/AluOp_1 (LATCH)
+  Destination Clock: Inst_registerFile/regist_10_not0000 falling
 
-  Data Path: Rst to Inst_uC/AluOp_4
+  Data Path: Rst to Inst_uC/AluOp_1
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     IBUF:I->O           176   1.218   1.308  Rst_IBUF (Rst_IBUF)
-     MUXF5:S->O            7   0.739   0.787  Inst_iM/SalidaIM<0>1_f5 (N2)
-     LUT2:I1->O           33   0.704   0.000  iMTouCrFsEU<18>1 (iMTouCrFsEU<18>)
-     LD:D                      0.308          Inst_uC/AluOp_4
+     IBUF:I->O           181   1.218   1.484  Rst_IBUF (Rst_IBUF)
+     LUT4:I0->O           78   0.704   1.356  Inst_iM/SalidaIM<4>211 (N2)
+     LUT2:I1->O           22   0.704   0.000  Inst_iM/SalidaIM<4>11 (iMTouCrFsEU<13>)
+     LD:D                      0.308          Inst_uC/AluOp_1
     ----------------------------------------
-    Total                      5.064ns (2.969ns logic, 2.095ns route)
-                                       (58.6% logic, 41.4% route)
+    Total                      5.774ns (2.934ns logic, 2.840ns route)
+                                       (50.8% logic, 49.2% route)
 
 =========================================================================
 Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_registerFile/regist_16_cmp_eq00001'
-  Total number of paths / destination ports: 6734 / 64
+  Total number of paths / destination ports: 7002 / 64
 -------------------------------------------------------------------------
-Offset:              15.974ns (Levels of Logic = 41)
+Offset:              15.506ns (Levels of Logic = 41)
   Source:            Rst (PAD)
   Destination:       Inst_registerFile/regist_16_31 (LATCH)
   Destination Clock: Inst_registerFile/regist_16_cmp_eq00001 falling
@@ -1814,13 +1755,13 @@ Offset:              15.974ns (Levels of Logic = 41)
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     IBUF:I->O           176   1.218   1.387  Rst_IBUF (Rst_IBUF)
-     LUT2:I1->O            2   0.704   0.451  Inst_mUX/SalidaMUX<0>1_SW0 (N3)
-     LUT4:I3->O           44   0.704   1.441  Inst_mUX/SalidaMUX<0>1 (N01)
-     LUT2:I0->O           66   0.704   1.273  iMTouCrFsEU<29>1 (Inst_uC/AluOp_cmp_eq0000)
-     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1 (Inst_registerFile/Mmux__varindex0001_7_f52)
-     MUXF6:I1->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     IBUF:I->O           181   1.218   1.484  Rst_IBUF (Rst_IBUF)
+     LUT4:I0->O           78   0.704   1.452  Inst_iM/SalidaIM<4>211 (N2)
+     LUT3:I0->O           52   0.704   1.269  Inst_iM/SalidaIM<4>2 (iMTouCrFsEU<4>)
+     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -1853,33 +1794,33 @@ Offset:              15.974ns (Levels of Logic = 41)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.000  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.000  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      LDCE:D                    0.308          Inst_registerFile/regist_16_31
     ----------------------------------------
-    Total                     15.974ns (10.048ns logic, 5.926ns route)
-                                       (62.9% logic, 37.1% route)
+    Total                     15.506ns (9.900ns logic, 5.606ns route)
+                                       (63.8% logic, 36.2% route)
 
 =========================================================================
-Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_registerFile/regist_17_cmp_eq00001'
-  Total number of paths / destination ports: 6734 / 64
+Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_registerFile/regist_17_cmp_eq0000'
+  Total number of paths / destination ports: 1262 / 20
 -------------------------------------------------------------------------
-Offset:              15.974ns (Levels of Logic = 41)
+Offset:              15.506ns (Levels of Logic = 41)
   Source:            Rst (PAD)
   Destination:       Inst_registerFile/regist_17_31 (LATCH)
-  Destination Clock: Inst_registerFile/regist_17_cmp_eq00001 falling
+  Destination Clock: Inst_registerFile/regist_17_cmp_eq0000 falling
 
   Data Path: Rst to Inst_registerFile/regist_17_31
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     IBUF:I->O           176   1.218   1.387  Rst_IBUF (Rst_IBUF)
-     LUT2:I1->O            2   0.704   0.451  Inst_mUX/SalidaMUX<0>1_SW0 (N3)
-     LUT4:I3->O           44   0.704   1.441  Inst_mUX/SalidaMUX<0>1 (N01)
-     LUT2:I0->O           66   0.704   1.273  iMTouCrFsEU<29>1 (Inst_uC/AluOp_cmp_eq0000)
-     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1 (Inst_registerFile/Mmux__varindex0001_7_f52)
-     MUXF6:I1->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     IBUF:I->O           181   1.218   1.484  Rst_IBUF (Rst_IBUF)
+     LUT4:I0->O           78   0.704   1.452  Inst_iM/SalidaIM<4>211 (N2)
+     LUT3:I0->O           52   0.704   1.269  Inst_iM/SalidaIM<4>2 (iMTouCrFsEU<4>)
+     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -1912,18 +1853,77 @@ Offset:              15.974ns (Levels of Logic = 41)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.000  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.000  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      LDCE:D                    0.308          Inst_registerFile/regist_17_31
     ----------------------------------------
-    Total                     15.974ns (10.048ns logic, 5.926ns route)
-                                       (62.9% logic, 37.1% route)
+    Total                     15.506ns (9.900ns logic, 5.606ns route)
+                                       (63.8% logic, 36.2% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_registerFile/regist_18_cmp_eq00001'
+  Total number of paths / destination ports: 7002 / 64
+-------------------------------------------------------------------------
+Offset:              15.506ns (Levels of Logic = 41)
+  Source:            Rst (PAD)
+  Destination:       Inst_registerFile/regist_18_31 (LATCH)
+  Destination Clock: Inst_registerFile/regist_18_cmp_eq00001 falling
+
+  Data Path: Rst to Inst_registerFile/regist_18_31
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O           181   1.218   1.484  Rst_IBUF (Rst_IBUF)
+     LUT4:I0->O           78   0.704   1.452  Inst_iM/SalidaIM<4>211 (N2)
+     LUT3:I0->O           52   0.704   1.269  Inst_iM/SalidaIM<4>2 (iMTouCrFsEU<4>)
+     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
+     LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
+     MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<2> (Inst_aLU/Madd_SalidALU_addsub0000_cy<2>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<3> (Inst_aLU/Madd_SalidALU_addsub0000_cy<3>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<4> (Inst_aLU/Madd_SalidALU_addsub0000_cy<4>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<5> (Inst_aLU/Madd_SalidALU_addsub0000_cy<5>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<6> (Inst_aLU/Madd_SalidALU_addsub0000_cy<6>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<7> (Inst_aLU/Madd_SalidALU_addsub0000_cy<7>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<8> (Inst_aLU/Madd_SalidALU_addsub0000_cy<8>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<9> (Inst_aLU/Madd_SalidALU_addsub0000_cy<9>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<10> (Inst_aLU/Madd_SalidALU_addsub0000_cy<10>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<11> (Inst_aLU/Madd_SalidALU_addsub0000_cy<11>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<12> (Inst_aLU/Madd_SalidALU_addsub0000_cy<12>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<13> (Inst_aLU/Madd_SalidALU_addsub0000_cy<13>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<14> (Inst_aLU/Madd_SalidALU_addsub0000_cy<14>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<15> (Inst_aLU/Madd_SalidALU_addsub0000_cy<15>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<16> (Inst_aLU/Madd_SalidALU_addsub0000_cy<16>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<17> (Inst_aLU/Madd_SalidALU_addsub0000_cy<17>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<18> (Inst_aLU/Madd_SalidALU_addsub0000_cy<18>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<19> (Inst_aLU/Madd_SalidALU_addsub0000_cy<19>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<20> (Inst_aLU/Madd_SalidALU_addsub0000_cy<20>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<21> (Inst_aLU/Madd_SalidALU_addsub0000_cy<21>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<22> (Inst_aLU/Madd_SalidALU_addsub0000_cy<22>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<23> (Inst_aLU/Madd_SalidALU_addsub0000_cy<23>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<24> (Inst_aLU/Madd_SalidALU_addsub0000_cy<24>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<25> (Inst_aLU/Madd_SalidALU_addsub0000_cy<25>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<26> (Inst_aLU/Madd_SalidALU_addsub0000_cy<26>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<27> (Inst_aLU/Madd_SalidALU_addsub0000_cy<27>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
+     MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.000  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
+     LDCE:D                    0.308          Inst_registerFile/regist_18_31
+    ----------------------------------------
+    Total                     15.506ns (9.900ns logic, 5.606ns route)
+                                       (63.8% logic, 36.2% route)
 
 =========================================================================
 Timing constraint: Default OFFSET IN BEFORE for Clock 'Inst_registerFile/regist_0_cmp_eq00001'
-  Total number of paths / destination ports: 6734 / 64
+  Total number of paths / destination ports: 7002 / 64
 -------------------------------------------------------------------------
-Offset:              15.974ns (Levels of Logic = 41)
+Offset:              15.506ns (Levels of Logic = 41)
   Source:            Rst (PAD)
   Destination:       Inst_registerFile/regist_0_31 (LATCH)
   Destination Clock: Inst_registerFile/regist_0_cmp_eq00001 falling
@@ -1932,13 +1932,13 @@ Offset:              15.974ns (Levels of Logic = 41)
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     IBUF:I->O           176   1.218   1.387  Rst_IBUF (Rst_IBUF)
-     LUT2:I1->O            2   0.704   0.451  Inst_mUX/SalidaMUX<0>1_SW0 (N3)
-     LUT4:I3->O           44   0.704   1.441  Inst_mUX/SalidaMUX<0>1 (N01)
-     LUT2:I0->O           66   0.704   1.273  iMTouCrFsEU<29>1 (Inst_uC/AluOp_cmp_eq0000)
-     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1 (Inst_registerFile/Mmux__varindex0001_7_f52)
-     MUXF6:I1->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     IBUF:I->O           181   1.218   1.484  Rst_IBUF (Rst_IBUF)
+     LUT4:I0->O           78   0.704   1.452  Inst_iM/SalidaIM<4>211 (N2)
+     LUT3:I0->O           52   0.704   1.269  Inst_iM/SalidaIM<4>2 (iMTouCrFsEU<4>)
+     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -1971,28 +1971,28 @@ Offset:              15.974ns (Levels of Logic = 41)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.000  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.000  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      LDCE:D                    0.308          Inst_registerFile/regist_0_31
     ----------------------------------------
-    Total                     15.974ns (10.048ns logic, 5.926ns route)
-                                       (62.9% logic, 37.1% route)
+    Total                     15.506ns (9.900ns logic, 5.606ns route)
+                                       (63.8% logic, 36.2% route)
 
 =========================================================================
-Timing constraint: Default OFFSET OUT AFTER for Clock 'Inst_uC/AluOp_cmp_eq0000'
-  Total number of paths / destination ports: 64 / 32
+Timing constraint: Default OFFSET OUT AFTER for Clock 'Inst_registerFile/regist_10_not0000'
+  Total number of paths / destination ports: 159 / 32
 -------------------------------------------------------------------------
-Offset:              10.871ns (Levels of Logic = 35)
+Offset:              10.924ns (Levels of Logic = 35)
   Source:            Inst_uC/AluOp_1 (LATCH)
   Destination:       SalidaProcesador<31> (PAD)
-  Source Clock:      Inst_uC/AluOp_cmp_eq0000 falling
+  Source Clock:      Inst_registerFile/regist_10_not0000 falling
 
   Data Path: Inst_uC/AluOp_1 to SalidaProcesador<31>
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     LD:G->Q              35   0.676   1.342  Inst_uC/AluOp_1 (Inst_uC/AluOp_1)
-     LUT2:I1->O            1   0.704   0.420  Inst_aLU/SalidALU_mux00001 (Inst_aLU/SalidALU_mux0000)
+     LD:G->Q              67   0.676   1.352  Inst_uC/AluOp_1 (Inst_uC/AluOp_1)
+     LUT4:I1->O            1   0.704   0.420  Inst_aLU/SalidALU_mux0000 (Inst_aLU/SalidALU_mux0000)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<2> (Inst_aLU/Madd_SalidALU_addsub0000_cy<2>)
@@ -2024,33 +2024,33 @@ Offset:              10.871ns (Levels of Logic = 35)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.669  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.708  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      OBUF:I->O                 3.272          SalidaProcesador_31_OBUF (SalidaProcesador<31>)
     ----------------------------------------
-    Total                     10.871ns (7.989ns logic, 2.882ns route)
-                                       (73.5% logic, 26.5% route)
+    Total                     10.924ns (7.989ns logic, 2.935ns route)
+                                       (73.1% logic, 26.9% route)
 
 =========================================================================
 Timing constraint: Default OFFSET OUT AFTER for Clock 'clk'
-  Total number of paths / destination ports: 22862 / 32
+  Total number of paths / destination ports: 25992 / 32
 -------------------------------------------------------------------------
-Offset:              18.437ns (Levels of Logic = 41)
-  Source:            Inst_nPC/Dout_1 (FF)
+Offset:              17.965ns (Levels of Logic = 41)
+  Source:            Inst_nPC/Dout_4 (FF)
   Destination:       SalidaProcesador<31> (PAD)
   Source Clock:      clk rising
 
-  Data Path: Inst_nPC/Dout_1 to SalidaProcesador<31>
+  Data Path: Inst_nPC/Dout_4 to SalidaProcesador<31>
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FDR:C->Q              6   0.591   0.844  Inst_nPC/Dout_1 (Inst_nPC/Dout_1)
-     LUT2:I0->O            2   0.704   0.451  Inst_mUX/SalidaMUX<0>1_SW0 (N3)
-     LUT4:I3->O           44   0.704   1.441  Inst_mUX/SalidaMUX<0>1 (N01)
-     LUT2:I0->O           66   0.704   1.273  iMTouCrFsEU<29>1 (Inst_uC/AluOp_cmp_eq0000)
-     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1 (Inst_registerFile/Mmux__varindex0001_7_f52)
-     MUXF6:I1->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     FDR:C->Q              9   0.591   0.899  Inst_nPC/Dout_4 (Inst_nPC/Dout_4)
+     LUT4:I1->O           78   0.704   1.452  Inst_iM/SalidaIM<4>211 (N2)
+     LUT3:I0->O           52   0.704   1.269  Inst_iM/SalidaIM<4>2 (iMTouCrFsEU<4>)
+     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -2083,18 +2083,18 @@ Offset:              18.437ns (Levels of Logic = 41)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.669  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.708  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      OBUF:I->O                 3.272          SalidaProcesador_31_OBUF (SalidaProcesador<31>)
     ----------------------------------------
-    Total                     18.437ns (12.385ns logic, 6.052ns route)
-                                       (67.2% logic, 32.8% route)
+    Total                     17.965ns (12.237ns logic, 5.728ns route)
+                                       (68.1% logic, 31.9% route)
 
 =========================================================================
 Timing constraint: Default OFFSET OUT AFTER for Clock 'Inst_registerFile/regist_0_cmp_eq00001'
-  Total number of paths / destination ports: 1616 / 32
+  Total number of paths / destination ports: 1319 / 32
 -------------------------------------------------------------------------
-Offset:              13.309ns (Levels of Logic = 39)
+Offset:              13.760ns (Levels of Logic = 40)
   Source:            Inst_registerFile/regist_0_0 (LATCH)
   Destination:       SalidaProcesador<31> (PAD)
   Source Clock:      Inst_registerFile/regist_0_cmp_eq00001 falling
@@ -2103,11 +2103,12 @@ Offset:              13.309ns (Levels of Logic = 39)
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     LDCE:G->Q             2   0.676   0.622  Inst_registerFile/regist_0_0 (Inst_registerFile/regist_0_0)
-     LUT1:I0->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_8_f5_rt (Inst_registerFile/Mmux__varindex0001_8_f5_rt)
+     LDCE:G->Q             2   0.676   0.451  Inst_registerFile/regist_0_0 (Inst_registerFile/regist_0_0)
+     LUT4:I3->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_10 (Inst_registerFile/Mmux__varindex0001_10)
      MUXF5:I0->O           1   0.321   0.000  Inst_registerFile/Mmux__varindex0001_8_f5 (Inst_registerFile/Mmux__varindex0001_8_f5)
-     MUXF6:I0->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_6_f6)
+     MUXF7:I0->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -2140,18 +2141,18 @@ Offset:              13.309ns (Levels of Logic = 39)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.669  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.708  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      OBUF:I->O                 3.272          SalidaProcesador_31_OBUF (SalidaProcesador<31>)
     ----------------------------------------
-    Total                     13.309ns (10.644ns logic, 2.665ns route)
-                                       (80.0% logic, 20.0% route)
+    Total                     13.760ns (11.200ns logic, 2.560ns route)
+                                       (81.4% logic, 18.6% route)
 
 =========================================================================
 Timing constraint: Default OFFSET OUT AFTER for Clock 'Inst_registerFile/regist_16_cmp_eq00001'
-  Total number of paths / destination ports: 1616 / 32
+  Total number of paths / destination ports: 1319 / 32
 -------------------------------------------------------------------------
-Offset:              13.309ns (Levels of Logic = 39)
+Offset:              13.760ns (Levels of Logic = 40)
   Source:            Inst_registerFile/regist_16_0 (LATCH)
   Destination:       SalidaProcesador<31> (PAD)
   Source Clock:      Inst_registerFile/regist_16_cmp_eq00001 falling
@@ -2160,11 +2161,12 @@ Offset:              13.309ns (Levels of Logic = 39)
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     LDCE:G->Q             2   0.676   0.622  Inst_registerFile/regist_16_0 (Inst_registerFile/regist_16_0)
-     LUT1:I0->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_8_f5_rt1 (Inst_registerFile/Mmux__varindex0001_8_f5_rt1)
+     LDCE:G->Q             2   0.676   0.451  Inst_registerFile/regist_16_0 (Inst_registerFile/regist_16_0)
+     LUT4:I3->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_93 (Inst_registerFile/Mmux__varindex0001_93)
      MUXF5:I1->O           1   0.321   0.000  Inst_registerFile/Mmux__varindex0001_8_f5 (Inst_registerFile/Mmux__varindex0001_8_f5)
-     MUXF6:I0->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_6_f6)
+     MUXF7:I0->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -2197,31 +2199,32 @@ Offset:              13.309ns (Levels of Logic = 39)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.669  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.708  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      OBUF:I->O                 3.272          SalidaProcesador_31_OBUF (SalidaProcesador<31>)
     ----------------------------------------
-    Total                     13.309ns (10.644ns logic, 2.665ns route)
-                                       (80.0% logic, 20.0% route)
+    Total                     13.760ns (11.200ns logic, 2.560ns route)
+                                       (81.4% logic, 18.6% route)
 
 =========================================================================
-Timing constraint: Default OFFSET OUT AFTER for Clock 'Inst_registerFile/regist_17_cmp_eq00001'
-  Total number of paths / destination ports: 560 / 32
+Timing constraint: Default OFFSET OUT AFTER for Clock 'Inst_registerFile/regist_17_cmp_eq0000'
+  Total number of paths / destination ports: 263 / 32
 -------------------------------------------------------------------------
-Offset:              13.282ns (Levels of Logic = 39)
+Offset:              13.733ns (Levels of Logic = 40)
   Source:            Inst_registerFile/regist_17_0 (LATCH)
   Destination:       SalidaProcesador<31> (PAD)
-  Source Clock:      Inst_registerFile/regist_17_cmp_eq00001 falling
+  Source Clock:      Inst_registerFile/regist_17_cmp_eq0000 falling
 
   Data Path: Inst_registerFile/regist_17_0 to SalidaProcesador<31>
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     LDCE:G->Q             1   0.676   0.595  Inst_registerFile/regist_17_0 (Inst_registerFile/regist_17_0)
-     LUT1:I0->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1_rt1 (Inst_registerFile/Mmux__varindex0001_7_f5_1_rt1)
+     LDCE:G->Q             1   0.676   0.424  Inst_registerFile/regist_17_0 (Inst_registerFile/regist_17_0)
+     LUT4:I3->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_85 (Inst_registerFile/Mmux__varindex0001_85)
      MUXF5:I1->O           1   0.321   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1 (Inst_registerFile/Mmux__varindex0001_7_f52)
-     MUXF6:I1->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     MUXF6:I1->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_6_f6)
+     MUXF7:I0->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -2254,18 +2257,76 @@ Offset:              13.282ns (Levels of Logic = 39)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.669  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.708  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      OBUF:I->O                 3.272          SalidaProcesador_31_OBUF (SalidaProcesador<31>)
     ----------------------------------------
-    Total                     13.282ns (10.644ns logic, 2.638ns route)
-                                       (80.1% logic, 19.9% route)
+    Total                     13.733ns (11.200ns logic, 2.533ns route)
+                                       (81.6% logic, 18.4% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'Inst_registerFile/regist_18_cmp_eq00001'
+  Total number of paths / destination ports: 560 / 32
+-------------------------------------------------------------------------
+Offset:              13.733ns (Levels of Logic = 40)
+  Source:            Inst_registerFile/regist_18_0 (LATCH)
+  Destination:       SalidaProcesador<31> (PAD)
+  Source Clock:      Inst_registerFile/regist_18_cmp_eq00001 falling
+
+  Data Path: Inst_registerFile/regist_18_0 to SalidaProcesador<31>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     LDCE:G->Q             1   0.676   0.424  Inst_registerFile/regist_18_0 (Inst_registerFile/regist_18_0)
+     LUT4:I3->O            1   0.704   0.000  Inst_registerFile/Mmux__varindex0001_84 (Inst_registerFile/Mmux__varindex0001_84)
+     MUXF5:I1->O           1   0.321   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
+     LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
+     MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<2> (Inst_aLU/Madd_SalidALU_addsub0000_cy<2>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<3> (Inst_aLU/Madd_SalidALU_addsub0000_cy<3>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<4> (Inst_aLU/Madd_SalidALU_addsub0000_cy<4>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<5> (Inst_aLU/Madd_SalidALU_addsub0000_cy<5>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<6> (Inst_aLU/Madd_SalidALU_addsub0000_cy<6>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<7> (Inst_aLU/Madd_SalidALU_addsub0000_cy<7>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<8> (Inst_aLU/Madd_SalidALU_addsub0000_cy<8>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<9> (Inst_aLU/Madd_SalidALU_addsub0000_cy<9>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<10> (Inst_aLU/Madd_SalidALU_addsub0000_cy<10>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<11> (Inst_aLU/Madd_SalidALU_addsub0000_cy<11>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<12> (Inst_aLU/Madd_SalidALU_addsub0000_cy<12>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<13> (Inst_aLU/Madd_SalidALU_addsub0000_cy<13>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<14> (Inst_aLU/Madd_SalidALU_addsub0000_cy<14>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<15> (Inst_aLU/Madd_SalidALU_addsub0000_cy<15>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<16> (Inst_aLU/Madd_SalidALU_addsub0000_cy<16>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<17> (Inst_aLU/Madd_SalidALU_addsub0000_cy<17>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<18> (Inst_aLU/Madd_SalidALU_addsub0000_cy<18>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<19> (Inst_aLU/Madd_SalidALU_addsub0000_cy<19>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<20> (Inst_aLU/Madd_SalidALU_addsub0000_cy<20>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<21> (Inst_aLU/Madd_SalidALU_addsub0000_cy<21>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<22> (Inst_aLU/Madd_SalidALU_addsub0000_cy<22>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<23> (Inst_aLU/Madd_SalidALU_addsub0000_cy<23>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<24> (Inst_aLU/Madd_SalidALU_addsub0000_cy<24>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<25> (Inst_aLU/Madd_SalidALU_addsub0000_cy<25>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<26> (Inst_aLU/Madd_SalidALU_addsub0000_cy<26>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<27> (Inst_aLU/Madd_SalidALU_addsub0000_cy<27>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
+     MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
+     MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.708  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
+     OBUF:I->O                 3.272          SalidaProcesador_31_OBUF (SalidaProcesador<31>)
+    ----------------------------------------
+    Total                     13.733ns (11.200ns logic, 2.533ns route)
+                                       (81.6% logic, 18.4% route)
 
 =========================================================================
 Timing constraint: Default path analysis
-  Total number of paths / destination ports: 6670 / 32
+  Total number of paths / destination ports: 6970 / 32
 -------------------------------------------------------------------------
-Delay:               19.607ns (Levels of Logic = 42)
+Delay:               19.178ns (Levels of Logic = 42)
   Source:            Rst (PAD)
   Destination:       SalidaProcesador<31> (PAD)
 
@@ -2273,13 +2334,13 @@ Delay:               19.607ns (Levels of Logic = 42)
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     IBUF:I->O           176   1.218   1.387  Rst_IBUF (Rst_IBUF)
-     LUT2:I1->O            2   0.704   0.451  Inst_mUX/SalidaMUX<0>1_SW0 (N3)
-     LUT4:I3->O           44   0.704   1.441  Inst_mUX/SalidaMUX<0>1 (N01)
-     LUT2:I0->O           66   0.704   1.273  iMTouCrFsEU<29>1 (Inst_uC/AluOp_cmp_eq0000)
-     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_1 (Inst_registerFile/Mmux__varindex0001_7_f52)
-     MUXF6:I1->O           1   0.521   0.424  Inst_registerFile/Mmux__varindex0001_6_f6 (Inst_registerFile/Mmux__varindex0001_4_f7)
-     LUT4_D:I3->O          1   0.704   0.499  Inst_mUX/SalidaMUX<0>2 (mUXToaLU<0>)
+     IBUF:I->O           181   1.218   1.484  Rst_IBUF (Rst_IBUF)
+     LUT4:I0->O           78   0.704   1.452  Inst_iM/SalidaIM<4>211 (N2)
+     LUT3:I0->O           52   0.704   1.269  Inst_iM/SalidaIM<4>2 (iMTouCrFsEU<4>)
+     MUXF5:S->O            1   0.739   0.000  Inst_registerFile/Mmux__varindex0001_7_f5_0 (Inst_registerFile/Mmux__varindex0001_7_f51)
+     MUXF6:I0->O           1   0.521   0.000  Inst_registerFile/Mmux__varindex0001_5_f6_0 (Inst_registerFile/Mmux__varindex0001_5_f61)
+     MUXF7:I1->O           1   0.521   0.420  Inst_registerFile/Mmux__varindex0001_4_f7 (Inst_registerFile/Mmux__varindex0001_4_f7)
+     MUXF5:S->O            2   0.739   0.526  Inst_mUX/SalidaMUX<0> (mUXToaLU<0>)
      LUT2:I1->O            1   0.704   0.000  Inst_aLU/Madd_SalidALU_addsub0000_lut<0> (Inst_aLU/Madd_SalidALU_addsub0000_lut<0>)
      MUXCY:S->O            1   0.464   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<0> (Inst_aLU/Madd_SalidALU_addsub0000_cy<0>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<1> (Inst_aLU/Madd_SalidALU_addsub0000_cy<1>)
@@ -2312,24 +2373,24 @@ Delay:               19.607ns (Levels of Logic = 42)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<28> (Inst_aLU/Madd_SalidALU_addsub0000_cy<28>)
      MUXCY:CI->O           1   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<29> (Inst_aLU/Madd_SalidALU_addsub0000_cy<29>)
      MUXCY:CI->O           0   0.059   0.000  Inst_aLU/Madd_SalidALU_addsub0000_cy<30> (Inst_aLU/Madd_SalidALU_addsub0000_cy<30>)
-     XORCY:CI->O           2   0.804   0.451  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
-     LUT4:I3->O            6   0.704   0.669  Inst_aLU/SalidALU<31>1 (SalidaProcesador_31_OBUF)
+     XORCY:CI->O           1   0.804   0.455  Inst_aLU/Madd_SalidALU_addsub0000_xor<31> (Inst_aLU/SalidALU_addsub0000<31>)
+     LUT3:I2->O            7   0.704   0.708  Inst_aLU/SalidALU<31>115 (SalidaProcesador_31_OBUF)
      OBUF:I->O                 3.272          SalidaProcesador_31_OBUF (SalidaProcesador<31>)
     ----------------------------------------
-    Total                     19.607ns (13.012ns logic, 6.595ns route)
-                                       (66.4% logic, 33.6% route)
+    Total                     19.178ns (12.864ns logic, 6.314ns route)
+                                       (67.1% logic, 32.9% route)
 
 =========================================================================
 
 
-Total REAL time to Xst completion: 80.00 secs
-Total CPU time to Xst completion: 80.50 secs
+Total REAL time to Xst completion: 81.00 secs
+Total CPU time to Xst completion: 81.22 secs
  
 --> 
 
-Total memory usage is 430392 kilobytes
+Total memory usage is 430424 kilobytes
 
 Number of errors   :    0 (   0 filtered)
-Number of warnings :  998 (   0 filtered)
-Number of infos    :   18 (   0 filtered)
+Number of warnings :  868 (   0 filtered)
+Number of infos    :   17 (   0 filtered)
 

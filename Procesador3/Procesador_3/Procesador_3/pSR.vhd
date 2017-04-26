@@ -38,16 +38,19 @@ end pSR;
 
 architecture Behavioral of pSR is
 
+signal PSR: std_logic_vector(31 downto 0):=(others => '0');
+
 begin
 	process(Rst,clk,nzvc)
 	begin
+		if rising_edge(clk) then
 			if Rst= '1' then
 						Carry <= '0';
 			else
-						if rising_edge(clk) then
-								  Carry <= nzvc(0);
-						end if;
+						PSR(23 downto 20) <= nzvc;
+						Carry <= PSR(20);
 			end if;
+		end if;
 end process;
 
 end Behavioral;

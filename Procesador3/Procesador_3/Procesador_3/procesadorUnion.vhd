@@ -86,8 +86,8 @@ COMPONENT sumador
 	PORT(
 		AluOp : IN std_logic_vector(5 downto 0);
 		SalidAlu : IN std_logic_vector(31 downto 0);
-		Crs1 : IN std_logic_vector(31 downto 0);
-		Operador2 : IN std_logic_vector(31 downto 0);
+		Crs1 : IN std_logic;--_vector(31 downto 0)
+		Operador2 : IN std_logic;--_vector(31 downto 0)
 		Rst : IN std_logic;          
 		nzvc : OUT std_logic_vector(3 downto 0)
 		);
@@ -124,7 +124,7 @@ COMPONENT sumador
 signal sumadorTonPC,nPCToiM,iMTouCrFsEU,rFDWRToAluResultado,rFToaLURs1,rFTomUXRs2,sEUTomUX,mUXToaLU: std_logic_vector(31 downto 0);
 signal aluOp1: STD_LOGIC_VECTOR (5 downto 0);
 signal pSRtomodifierPSR: STD_LOGIC_VECTOR(3 downto 0);
-signal pSRToAlu: STD_LOGIC := '0';
+signal pSRToAlu: STD_LOGIC;
 
 begin
 
@@ -171,8 +171,8 @@ begin
 	Inst_modifierPSR: modifierPSR PORT MAP(
 		AluOp => aluOp1 ,
 		SalidAlu => rFDWRToAluResultado,
-		Crs1 => rFToaLURs1,
-		Operador2 => mUXToaLU,
+		Crs1 => rFToaLURs1(31),
+		Operador2 => mUXToaLU(31),
 		Rst => Rst,
 		nzvc => pSRtomodifierPSR
 	);

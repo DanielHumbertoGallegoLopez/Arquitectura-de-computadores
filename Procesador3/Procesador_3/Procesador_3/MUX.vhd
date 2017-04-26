@@ -34,13 +34,10 @@ architecture Behavioral of mUX is
 begin
 	process(imm,Dseu,Rs2)
 	begin
-			if(imm = '1')then
+			if(imm = '0')then
 					SalidaMUX <= Dseu;
 			else 
-				if(imm = '0')then
-						SalidaMUX <= Rs2;
-				end if ; 
-
+					SalidaMUX <= Rs2;
 			end if; 	
 
 end process; 

@@ -23,7 +23,7 @@ use IEEE.STD_LOGIC_UNSIGNED.ALL;	--(Proporciona cálculo numérico sin signo del t
 use std.textio.all;					--(Proporciona entrada / salida para 1164 tipos
 												--Las funciones definidas incluyen: readline leer
 												--WriteLine línea de fondo de escritura)
-									
+						
 ----------------------------------------------------------------------------------
 
 entity iM is
@@ -51,12 +51,11 @@ type rom_type is array (0 to 31) of std_logic_vector (31 downto 0);
 			end loop;
 		return temp_mem;
 	end function;
-	signal instructions : rom_type := InitRomFromFile("Prueba1Procesador3.txt");
+	signal instructions : rom_type := InitRomFromFile("Parcial1Procesador3.txt");
 
 
 begin
 
---reset,address, instructions)
 	process(Rst, nPC, instructions)
 	begin
 		--if(rising_edge(clk))then

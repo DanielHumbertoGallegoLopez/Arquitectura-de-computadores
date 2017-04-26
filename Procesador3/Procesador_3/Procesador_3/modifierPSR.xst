@@ -1,5 +1,5 @@
-set -tmpdir "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/xst/projnav.tmp"
-set -xsthdpdir "C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/xst"
+set -tmpdir "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Daniel/Documents/GitHub/Arquitectura-de-computadores/Procesador3/Procesador_3/Procesador_3/xst"
 elaborate
 -ifn modifierPSR.prj
 -ifmt mixed

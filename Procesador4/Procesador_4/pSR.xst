@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/xst"
+elaborate
+-ifn pSR.prj
+-ifmt mixed

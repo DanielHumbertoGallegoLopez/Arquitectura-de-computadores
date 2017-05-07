@@ -1,0 +1,5 @@
+vhdtdtfi -lib work pSR.vhd -prj Procesador_3 -o pSR.spl -module pSR -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e pSR.spl C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/pSR.sym 
+vhdtdtfi -prj Procesador_3 -o C:/Users/Daniel/Desktop/Procesador_3/Procesador_2/pSR.vhi -module pSR -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work pSR.vhd 
+vhdtdtfi -prj Procesador_4 -o C:/Users/utp/Documents/Procesador_4/Procesador_4/pSR.vhi -module pSR -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work pSR.vhd 
+xst -intstyle ise -ifn "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/pSR.xst" -ofn "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/pSR.syr" 

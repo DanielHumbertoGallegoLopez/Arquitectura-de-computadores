@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Users/utp/Documents/Procesador_4/Procesador_4/windows_Manager.xst" -ofn "C:/Users/utp/Documents/Procesador_4/Procesador_4/windows_Manager.syr" 
+xst -intstyle ise -ifn "C:/Users/utp/Documents/Procesador_4/Procesador_4/windows_Manager.xst" -ofn "C:/Users/utp/Documents/Procesador_4/Procesador_4/windows_Manager.syr" 
+vhdtdtfi -prj Procesador_4 -o C:/Users/utp/Documents/Procesador_4/Procesador_4/windows_Manager.vhi -module windows_Manager -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work windows_Manager.vhd 
+xst -intstyle ise -ifn "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/windows_Manager.xst" -ofn "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/windows_Manager.syr" 
+xst -intstyle ise -ifn "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/windows_Manager.xst" -ofn "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/windows_Manager.syr" 
+xst -intstyle ise -ifn "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/windows_Manager.xst" -ofn "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/windows_Manager.syr" 

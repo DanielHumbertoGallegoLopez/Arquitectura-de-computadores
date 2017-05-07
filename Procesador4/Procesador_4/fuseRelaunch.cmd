@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/prueba_procesadorUnion_isim_beh.exe" -prj "C:/Users/Daniel/Desktop/Procesador_4/Procesador_4/prueba_procesadorUnion_beh.prj" "work.prueba_procesadorUnion" 
